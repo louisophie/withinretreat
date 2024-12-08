@@ -4,7 +4,8 @@
 　　裡面的翻譯文章、除了其原材料可在網路上免費取得之外，所有須付費購買的書籍或論文其翻譯都是不完全的，我只會選擇性地翻譯我自己覺得有趣的段落或部分篇章，因此有興趣且可以進行英文閱讀的讀者請務必直接參考原文材料，如此亦可對全書或論文的主題有更深入的了解與掌握。  
   
 林詠盛(Louis), louisophie@gmail.com  
-https://www.facebook.com/profile.php?id=100095239087961  
-https://louisophie.wordpress.com  
+https://github.com/louisophie/withinretreat  
 https://withinretreat.blogspot.com  
+https://louisophie.wordpress.com  
+https://www.facebook.com/profile.php?id=100095239087961  
 #糖尿病治療,#飲食科學,#糖尿病,#中文翻譯,#diabetes,#dietary,#translation,#RichardKBernstein  
