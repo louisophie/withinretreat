@@ -7,4 +7,4 @@
 https://www.facebook.com/profile.php?id=100095239087961 \
 https://louisophie.wordpress.com \
 https://withinretreat.blogspot.com \
-#糖尿病治療,#飲食科學,#糖尿病,#中文翻譯,#diabetes,#dietary,#translation,#RichardKBernstein \
+#糖尿病治療,#飲食科學,#糖尿病,#中文翻譯,#diabetes,#dietary,#translation,#RichardKBernstein
