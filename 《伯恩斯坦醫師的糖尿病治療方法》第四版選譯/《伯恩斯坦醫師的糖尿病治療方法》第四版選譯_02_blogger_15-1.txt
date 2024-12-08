@@ -1,0 +1,20 @@
+《伯恩斯坦醫師的糖尿病治療方法》第四版選譯,中文翻譯,飲食科學,糖尿病,糖尿病治療,Chinese Translation,diabetes,dietary,Dr. Bernstein's Diabetes Solution
+　　《伯恩斯坦醫師的糖尿病治療方法》第四版選譯15-1
+　　以下是從《伯恩斯坦醫師的糖尿病治療方法》第四版（《Dr. Bernstein's Diabetes Solution》,4th edition）選擇性地翻譯我自己覺得有趣的段落或部分編章；這本書目前沒有中文版，如果有興趣且可以進行英文閱讀的讀者請務必找來看看，相信會對疾病治療有極大的幫助。
+    This post is selected Chinese translation from 《Dr. Bernstein's Diabetes Solution》, 4th edition. I just choose paragraphs and partial chapters, which attract me, as materials for personal translation exercises. If there is anyone who's interesting about this endocrine disorder, please go get this book and read it thorough. The knowledge and treatments in it should have great curative effect on this disease and its complications.
+林詠盛(Louis)譯, louisophie@gmail.com
+https://www.facebook.com/profile.php?id=100095239087961
+https://louisophie.wordpress.com/
+https://withinretreat.blogspot.com
+#糖尿病治療,#飲食科學,#糖尿病,#中文翻譯,#diabetes,#dietary,#translation,#RichardKBernstein
+———————————————————————————
+
+　　單元15〖胰島素增敏劑、胰島素模擬劑及其它口服降血糖藥物〗
+　　當飲食治療及運動都不足以將血糖給控制在正常穩定的範圍時，口服降血糖藥物可能就是我們下一步要採取的方法了。（譯注：作者在書中所規劃的飲食治療中並沒有斷食的選項，如間歇性或是較長時間的斷食在書中都沒有被提及；他自己的飲食習慣是一天吃兩餐（早、晚餐），中餐則是因太過忙碌而略過不吃。另外他也不是所謂生酮飲食的愛好者，而是認為我們並不需要在飲食中額外加入油脂、只需直接從蛋白質肉類本身所含有的脂肪來獲得脂質類的養分即可。但作者所使用的以蛋白質為主的飲食譯者並不完全讚同、也非譯者自己的飲食治療方法，而是採取間歇性及較長時間斷食，以及低碳水（來源為葉菜類為主，基本上和作者相同）、適量蛋白質、與高膳食脂肪攝取的飲食方式。）
+　　目前的口服降血糖藥物基本上有3大類：第一個是降低胰島素阻抗的胰島素增敏劑，第二類是和胰島素有相類似運作機制的胰島素模擬劑（作用和胰島素相仿，但不會造成脂肪的生成累積）；第三類則是會刺激胰臟、強迫β細胞分泌胰島素的藥物如sulfonylureas（硫醯基尿素類，這是最原始的口服降血糖藥。譯注:商品名為Glimepiride的瑪爾胰即是）。若讀者有使用口服降血糖藥的需求，我只會建議前兩類型的藥物（原因在下面會說明；目前已有一些藥商將胰島素刺激及胰島素增敏的藥物兩相結合成新的產品，但我非常反對這類藥物的使用，也建議讀者務必告訴醫師拒絕使用刺激胰島素分泌類型藥物的意願；它們包括了上述提到的硫醯基尿素類藥物、以及類似但較新型的美格替耐類（meglitinides）與苯丙胺酸（phenylalanine）的衍生性產品）。
+　　（作者注：硫醯基尿素類藥物不只會造成β細胞的永久損傷，也會使得ATP（三磷酸腺苷）敏感性的鉀離子通道停止作用、進而使得心臟及身體各處的血管無法鬆弛；且研究指出這類藥物會增加死亡率，其原因就包括了心血管疾病及癌症。）
+　　針對自身仍有足量胰島素分泌能力的人，胰島素增敏劑對血糖控制或許能夠有所幫助；而對一些有胰島素阻抗、胰島素分泌不足或是無法分泌的人，增敏劑及模擬劑兩者適當地併用則可能有助於減少胰島素的注射劑量。
+　　目前（譯註：本書於2011年發行）有4款胰島素增敏劑在市面上販售，分別是metformin（二甲雙胍，商品名為庫魯化Glucophage）、rosiglitazone（羅格列酮，商品名為梵帝雅Avandia）、pioglitazone（吡格列酮，商品名為愛妥糖Actos）及bromocriptine mesylate（溴隱亭甲磺酸酯，商品名Cycloset），但在診斷治療時我只會開立Glucophage及Actos這2種藥物；Avandia和Actos兩者的藥效差不多，但美國食品藥物管理局FDA對前者有極嚴格的使用限制，因此就更沒有開立Avandia的需要。
+　　Metformin在降低癌症發病率及抑制產生饑餓感的荷爾蒙ghrelin（胃促生長素、飢餓素）有其效用（因此可減少暴飲暴食的問題），但就我的觀察及了解，『並非所有非專利的二甲雙胍藥物都有庫魯化Glucophage的藥效』，因此雖然其要價較高，但我仍只願開立庫魯化Glucophage的處方給病患使用。
+　　第3類的口服降血糖藥物會刺激胰臟以強迫分泌胰島素，但這對糖尿病的治療是沒有任何幫助的：首先是它們在一餐不吃或僅是晚吃的情況下，就很有可能會造成嚴重的低血糖；第二是會加重胰臟的負擔，使原本就已經受損的β細胞更加快速地耗竭殆盡，且又會同時刺激身體生成有毒的類澱粉蛋白（amyloid）、進一步加速β細胞的死亡。第三個我不願開立這類藥物處方的原因，是因為只要能夠把血糖給控制在正常穩定的範圍内，許多的實驗結果（以及我自己的許多病人都是如此）都指出受損的β細胞是可以恢復正常的，也因此使用這類會惡化病情的藥物是完全沒意義的。總而言之，這類會刺激胰臟分泌胰島素的藥物在糖尿病治療上是完全沒有幫助、且根本就不應該開立服用的東西。
+　　在下面的各小節中我只會把重點放在胰島素增敏劑及模擬劑的討論上，並會在最後針對3種比較特殊的情形提出其它可能的治療方法。

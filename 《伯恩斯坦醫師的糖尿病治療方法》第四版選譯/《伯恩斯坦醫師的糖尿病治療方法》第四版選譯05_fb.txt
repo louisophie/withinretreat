@@ -1,0 +1,71 @@
+　　《伯恩斯坦醫師的糖尿病治療方法》第四版選譯05
+　　https://withinretreat.blogspot.com
+　　https://www.facebook.com/profile.php?id=100095239087961
+　　以下是從《伯恩斯坦醫師的糖尿病治療方法》第四版（《Dr. Bernstein's Diabetes Solution》,4th edition）選擇性地翻譯我自己覺得有趣的段落或部分編章；這本書目前沒有中文版，如果有興趣且可以進行英文閱讀的讀者請務必找來看看，相信會對疾病治療有極大的幫助。
+    This post is selected Chinese translation from 《Dr. Bernstein's Diabetes Solution》, 4th edition. I just choose paragraphs and partial chapters, which attract me, as materials for personal translation exercises. If there is anyone who's interesting about this endocrine disorder, please go get this book and read it thorough. The knowledge and treatments in it should have great curative effect on this disease and its complications.
+　　林詠盛(Louis), louisophie@gmail.com
+----------------------------------------	#以上Louis Lin個版（https://www.facebook.com/profile.php?id=100078089082030）；id=100095239087961為「內分泌相關文章及選譯」
+
+　　《伯恩斯坦醫師的糖尿病治療方法》第四版選譯05
+　　https://withinretreat.blogspot.com
+　　以下是從《伯恩斯坦醫師的糖尿病治療方法》第四版（《Dr. Bernstein's Diabetes Solution》,4th edition）選擇性地翻譯我自己覺得有趣的段落或部分編章；這本書目前沒有中文版，如果有興趣且可以進行英文閱讀的讀者請務必找來看看，相信會對疾病治療有極大的幫助。
+    This post is selected Chinese translation from 《Dr. Bernstein's Diabetes Solution》, 4th edition. I just choose paragraphs and partial chapters, which attract me, as materials for personal translation exercises. If there is anyone who's interesting about this endocrine disorder, please go get this book and read it thorough. The knowledge and treatments in it should have great curative effect on this disease and its complications.
+　　林詠盛(Louis), louisophie@gmail.com
+----------------------------------------	#以上內分泌相關文章及選譯
+　　單元05：〖血糖記錄：GLUCOGRAFⅢ血糖記錄表〗
+　　一個人的血糖會受很多因素的影響，包括藥物（胰島素、口服降血糖藥、或胰島素增敏劑）、做了什麼運動、是否有感染或感冒、吃了什麼東西和何時吃的、以及其它可能會影響血糖卻又不顯著相關的事情（像是許多人在運動比賽、上台演講或和人爭吵時血糖會上升）。不只有單單的血糖數值，這些大大小小的資訊都必須加以記錄，醫師或衛教師才有可以規劃個人化療程的依據。要記錄這些資訊，就我所知最好的表格仍是我（一個糖尿病工程師）所設計的GLUCOGRAFⅢ血糖記錄表（本書的治療方法亦同）；目前為止並沒有足以在不經修改下就能夠詳細呈現各式資訊的其它表格或電腦程式。
+　　GLUCOGRAFⅢ血糖記錄表是1張2面式，共可記錄2個禮拜的血糖資料，如果醫師需要其它更詳細的項目（如飲食內容），可以分別在正反面加以記錄（譯註：即1張1個禮拜）。表單設計成可以摺疊並隨身攜帶，內容書寫可用細頭的筆（如0.1mm）以免空間不足（尤其是在藥物運動飲食一欄）；如果要用傳真、掃描或email方式給醫師，儘量不要用鉛筆以免字跡模糊不清。
+　　下面會依表格的欄位分別介紹應書寫的內容和最佳資料表達的方法。
+　　（譯註：網路上可找到該表格，請確認沒有授權問題後再下載使用；底下依各欄位附上中文名稱。）
+
+　　《資料欄位》
+　　Name（姓名）：……
+　　DOCTOR'S PHONE（醫師電話）：……
+　　DOCTOR'S FAX/E-MAIL（醫師傳真/電子信箱）：……
+　　TARGET BG（目標血糖）：正常的血糖值大約是在80～85mg/dl間，但醫生會視各別的情況而可能設定較高的數值。如病人已經高血糖很長一段時間，那麼為了避免有低血糖的感覺（即使是在正常血糖的範圍內），就會讓速度緩下來而先訂較高的值。若是有注射胰島素，則可能會隨治療階段設定不同的數值、並同時教導血糖校正的方法，讓病患慢慢往血糖正常的目標邁進；如假設病患剛開始治療時血糖高達300～400mg/dl，則可能會先暫時設定175mg/dl為目標；如果病患有胃輕癱的情形且注射胰島素，數值可能會定得更高些並持續一段時間以增加治療的安全性，以避免發生嚴重的低血糖情形。
+　　USUAL DOSES OF INSULIN OR ORAL AGENT（胰島素或口服藥劑量）：有使用任何的胰島素、口服降血糖藥（原註：包括胰島素增敏劑和胰島素模擬劑，單元15會詳述。）的人在治療上必須有明確的規範，這個欄位可以讓使用藥物的資料詳細地例出，避免有所更動或忘記時立即有記錄可尋。以底下圖表***為例，假設飯前或是飯後吃藥，就把後（post）或是前（pre）劃掉；如果醫生有調整藥物劑量，就把原本記錄劃掉，然後在右邊寫上新的藥量。
+　　在圖表的例子中，病人早上起床時要打2單位的Levemir（瑞和密爾，長效胰島素）、並在晚餐飯前90分鐘服用3顆500mg的Glucophage，（即二甲雙胍metformin，胰島素增敏劑）；但在這一個禮拜中他的長效胰島素減至1.5單位、藥錠也減至2顆。把舊記錄保留下來可讓醫生快速了解病人用藥的情形。
+　　1 UNIT__WILL LOWER BLOOD SUGAR__mg/dl（1單位的__可降血糖__mg/dl，空格各填速效胰島素代號及數字）：這是給有使用速效胰島素的人在校正高血糖時使用。在單元19《積極胰島素治療》會詳細討論到血糖校正的問題。……
+　　MISCELLANEOUS（雜項）：可把治療相關的事項寫入備忘（欄位太小時可用頁邊空白加以補充)。像是測血糖的時間，則此欄可填入：
+　　量血糖：早起時
+　　　　　　餐前
+　　　　　　餐後2小時
+　　　　　　睡前
+　　　　　　饑餓
+　　BG EFFECTS OF SWEET（糖分的血糖上升能力）：對於有使用胰島素或口服降血糖藥的人，都必須要知道如何利用葡萄糖錠或葡萄糖液體來使低血糖快速上升；在單元20〖如何預防和校正低血糖〗會說明如何測量1公克的葡萄糖升高的血糖數值。假設1顆Dex4的葡萄糖錠會讓血糖上升18mg/dl，則此欄可以這樣填寫：
+　　1 D4 →↑18
+　　如果其它含量不同的葡萄糖錠（如Wacky Wafers）會讓血糖上升10mg/dl，則可以這樣註明：
+　　1 WW →↑10
+　　假設1公克的碳水化合物能上升5mg/dl，則可以寫成：
+　　1g碳水 →↑5
+　　EXERCISE ADJUSTMENTS（運動的血糖調整）：這一欄一樣是給注射胰島素或口服血糖藥的人，用來記錄在運動前為防止低血糖所吃的食物。譬如以逛街為例（這是一個難以估算運動量的活動，因為常會逛太久而走過頭），我們可能需要每小時一小塊麵包來避免低血糖的發生；我們可以如下記錄：
+　　逛街————半塊麵包/每小時（½ brd/hr）
+　　ABBREVIATE NAMES OF ACTIVITIES AND MEDICATIONS（活動及藥物代號）：用首字或前幾個字來代替該活動或藥物的名稱來讓整張表格簡潔明了，也可讓醫病雙方更快抓到重要的細節內容。
+
+　　《逐日血糖記錄》
+　　表格中一天被分割成3大塊，分別是TIME（時間）、BLOOG SUGAR（血糖）、MEDICATION, EXERCISE, FOOD, ETC（藥物、運動、飲食或其它），每一列的時間劃分除了最上面的1 AM THRU 6 AM（凌晨1點到早上六點）是5小時、和最下面9 PM THRU 1 AM（晚上9點到凌晨1點）是4小時外，其餘間隔都是以3小時計。每天所發生有關血糖影響的事件，如進食、用藥、運動、和測血糖的數值，就依欄位填入即可，並切記不要把不會影響血糖的事情（如血壓用藥）寫入以免增加判讀的困擾。
+　　TIME（時間）：直接依不同間隔寫入準確時間，如星期二（TUESDAY）下午1：30量血糖，就在TUESDAY欄下的12 NOON THRU 3 PM（中午12點到下午3點）列寫入1：30。
+　　BLOOD SUGAR（血糖）：依序寫入每次測量的時間和數值。如果在感到有低血糖的症狀又忘了帶血糖機在身邊（這是一項小缺失）時，可寫上「低？」（Low？），然候依單元20的血糖校正方法使血糖升高至正常值。
+　　MEDICATION, EXERCISE, FOOD, ETC（藥物、運動、飲食或其它）：這個欄位是個大雜燴，除了血糖數值之外，所有會影響其升降的事件都集中在這個地方。下面舉了一些例子，並以縮寫的方式呈現出來以便填入欄位中。
+　　注射5單位的長效瑞和密爾（levemir）胰島素：5 Lev
+　　吃早餐(Ate Breakfast)：早（B）
+　　午餐（dinner）多吃：↑午(↑DIN)
+　　服用1/2個Dex4葡萄糖錠：1/2 D4
+　　服用2顆500mg Glucophage（二甲雙胍藥錠）：2 x 500 GP
+　　走路3公里：走3km
+　　逛街3小時：逛3hr
+　　肌肉注射（IntraMuscularly）1.5單位的速效優泌樂（Humalog）胰島素：1½H——IM
+　　整天喉嚨痛：喉痛（寫在當天日期最上方的格子）
+　　看牙醫：牙醫
+
+　　《出乎意外的血糖值》
+　　我們在本書中所提及的治療方法目的是使病患能有正常的血糖值，並且能夠在這個狹窄的區間內長期維持下去；只是事情並不一定總是順從人願，血糖有時就是會走偏。
+
+　　〈在表格中把血糖異常的因果關係標示出來〉
+　　血糖異常有各種原因，例如在外用餐時忍不住吃了甜點（即使平常都嚴格執行飲食控制和配合用藥）結果血糖急速上升破表，或是因為作了特定的運動而造成低血糖等等，我們可把事件和血糖數值劃圈再連起來，給自己和醫生雙方清楚的記錄以利後續評估；如睡前因吃零食而造成早起的高血糖，就把兩者劃圈並相連以作為日後的參考。
+
+　　〈單獨標示異常血糖〉
+　　如果在極度嚴格遵循治療方法時，血糖還是出現偏高或過低，這時可再重覆測量一次，並在扎指頭前洗好手把可能的食物或葡萄糖殘留物給清除掉，且再一次確認量測的方法沒有缺漏之處；如果其值還是不正常，我們就把它圈起來作為深入探討的重點資料；醫生和衛教師也應幫助病患去找出背後的原因以預防和推測再發生的可能。在下一單元，我們會對幾個影響血糖升降的特殊人體生理機制作詳細的探討。
+　　有了自我血糖監測和資料搜集記錄的能力後，我們就可以利用這些知識來把血糖正常化了。
+
+
