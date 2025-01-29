@@ -7,6 +7,6 @@
 林詠盛(Louis), louisophie@gmail.com  
 https://withinretreat.blogspot.com  
 https://louisophie.wordpress.com  
-https://www.facebook.com/profile.php?id=100095239087961  
+https://x.com/louisophie_/
 https://github.com/louisophie/withinretreat  
 #糖尿病治療,#飲食科學,#糖尿病,#中文翻譯,#diabetes,#dietary,#translation,#RichardKBernstein  
