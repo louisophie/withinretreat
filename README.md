@@ -7,7 +7,7 @@
 　　20260117新增散文文章。
 # 
 林詠盛(Louis), louisophie@gmail.com  
-https://www.blogger.com/profile/17529498359072421715
+https://www.blogger.com/profile/17529498359072421715  
 https://x.com/louisophie_/  
 https://github.com/louisophie/withinretreat  
 #糖尿病治療,#飲食科學,#糖尿病,#中文翻譯,#diabetes,#dietary,#translation,#RichardKBernstein  
