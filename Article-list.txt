@@ -1,4 +1,5 @@
 Article-list（文章列表）：
+2026/01/18：twitter_03〈Dr. Andrew Koutnik Ph.D.部落格選譯《單元1：什麼是第一型糖尿病？》〉
 2026/01/18：twitter_04，本文譯自https://andrewkoutnik.com/about-us/
 2026/01/08：tweater_02〈Chinese Buddhism, Vegan, and Diabetes〉
 2026/01/05：tweater_01〈Eye and Starch〉
@@ -109,3 +110,4 @@ Article-list（文章列表）：
 https://x.com/louisophie_/articles
 https://www.blogger.com/profile/17529498359072421715
 https://github.com/louisophie/
+https://louisophie.wordpress.com
