@@ -1,5 +1,4 @@
-# Metabolic articles and Chinese-translations, 內分泌相關文章及選譯 
-Short Essaies on Anything Sensible
+# Metabolic articles and Chinese-translations （內分泌相關文章及選譯）, Short Essaies on Anything Sensible
 
 　　Here are my web publications and Chinese-translated articles on metabolism and diabetes treatments. I am a type-one diabetes for twenties years, and have treated myself since 4 years ago when 35 years old. In these self-treated years I have used Dr. Richard Bernstein's book as my medical guidance to normalize my blood sugar, and read books from Gary Taubes, Nina Teicholz, Dr. Jason Fung, Dr. Eric Westman, Jimmy Moore and Dr. Keith Runyan as my diet discipline to improve my health as a whole. However, many of these books have no chinese translation here in Taiwan, in which I have lived for almost 40 years. Doing translations about endocrinology and diet may help a little bit aid in the treatment of this serious endocrine disorder, while at the same time is also my life and healing records. I have put all my articles and translations in four websites, which are Blogger, Wordpress, GitHub and PTT (one of Taiwanese Bulletin Board Systems), at the time of this writing, and I may spot on new publishing spaces if appropriate.  
 　　The translations here are not complete unless of which materials could be obtained free on the internet. For priced texts I just choose partial paragraphs and chapters, which attract me, as my translation exercises. If anyone who is interesting about them, please go get the books or papers for a more complete experience.  
@@ -8,8 +7,7 @@ Short Essaies on Anything Sensible
 　　20260117新增散文文章。
 # 
 林詠盛(Louis), louisophie@gmail.com  
-https://withinretreat.blogspot.com  
-https://louisophie.wordpress.com  
+https://www.blogger.com/profile/17529498359072421715
 https://x.com/louisophie_/  
 https://github.com/louisophie/withinretreat  
 #糖尿病治療,#飲食科學,#糖尿病,#中文翻譯,#diabetes,#dietary,#translation,#RichardKBernstein  
