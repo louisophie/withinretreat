@@ -428,7 +428,7 @@ Dr. Koutnik的這三篇部落格文章
 **第一型糖尿病治療的最終目標當然是希望能夠完全治癒，但現實是我們對疾病背後的自體免疫機制仍了解不足、可能還需數十年以上的時間才有克服的可能；但這不代表第一型患者只能無助地原地等死，因為我們可以透過改善飲食的方法來穩定且正常化我們的血糖。並非所有的第一型患者都能夠順利地使用極低碳水飲食來做為血糖控制的治療方法，但透過許多的研究報告及病人們的親身經歷（包括我自己），都清楚呈現了我們可以藉由飲食、藥物等等的方法來互相配合以達到血糖的正常化，而這就是當下第一型糖尿病患者們最大的著力點所在。極低碳水飲食仍需更多的研究以釐清醫界的質疑與操作上的限制、並進一步加強執行的穩健性，但它卻是當前第一型患者可以採行以穩定控制血糖的最好治療方法。就看我們能不能跟Type-1 Grit的受試者一樣，勇敢地（grit）往「第一型糖尿病患者不只能夠、且應該要和非糖尿病的健康同儕有著相同的血糖值」之目標邁進。**  
 
 ## 重要資料來源：
-**《伯恩斯坦醫師的糖尿病治療方法：血糖正常完整指南》(《*Dr. Bernstein's Diabetes Solution: A Complete Guide to Achieving Normal Blood Sugars*》)** 為最重要、也是最全面的糖尿病治療指南，作者伯恩斯坦醫師本身即為第一型糖尿病患者兼内分泌科醫師，他在書中利用極低碳水化合物飲食指導第1及2型的患者、配合各種方法來達成血糖的穩定正常化。此書為我所知最詳盡的糖尿病書籍之一。另外他在youtube有開設頻道（RD Dikeman博士協助設立）<https://www.youtube.com/@DrRichardKBernstein/>，其中的「糖尿病大學」播放清單（The Complete Sessions，<https://www.youtube.com/playlist?list=PLs_TA02I6IvV-0SdUwE82Iw7iCCgbkJje>推薦給剛接觸此治療方法的朋友參考。
+**《伯恩斯坦醫師的糖尿病治療方法：血糖正常完整指南》(《*Dr. Bernstein's Diabetes Solution: A Complete Guide to Achieving Normal Blood Sugars*》)** 為最重要、也是最全面的糖尿病治療指南，作者伯恩斯坦醫師本身即為第一型糖尿病患者兼内分泌科醫師，他在書中利用極低碳水化合物飲食指導第1及2型的患者、配合各種方法來達成血糖的穩定正常化。此書為我所知最詳盡的糖尿病書籍之一。另外他在youtube有開設頻道（RD Dikeman博士協助設立）<https://www.youtube.com/@DrRichardKBernstein/>，其中的「糖尿病大學」播放清單（The Complete Sessions，<https://www.youtube.com/playlist?list=PLs_TA02I6IvV-0SdUwE82Iw7iCCgbkJje>）推薦給剛接觸此治療方法的朋友參考。
 
 |         |         |
 |---|---|
