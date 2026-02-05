@@ -1,0 +1,397 @@
+Dr. Andrew Koutnik Ph.D.部落格選譯《單元2：第一型糖尿病之風險、併發症及當下的治療方法》
+
+（譯注：因twitter長文有圖片上傳上限，因此將原文分成2篇，想閱讀無分割全文可到blogger、或至github下載無圖片之文字檔）
+
+Dr. Andrew Koutnik Ph.D.（安德魯·庫特尼克博士）是位身兼生理學研究人員、且同樣是以Dr. Bernstein的《Dr. Bernstein's Diabetes Solution》（《伯恩斯坦醫師的糖尿病治療方法》）為藍本再加以改善並發展自己治療方法的第一型糖尿病患者。在他的個人網站中（https://andrewkoutnik.com/）不僅詳細說明了糖尿病的運作機制、許多實際操作的細節以及各項治療藥物的特性與整理圖表，更重要的是他還列出了完整的文獻資料供讀者一一查閱與深入研究，除了可讓人直接按圖索驥、針對有疑義之處進行第一手資料的閱讀之外，他對糖尿病（尤其是第一型）深入淺出的觀念整合與治療方法的清晰條例，對許多長期以來的錯誤醫學知識做出了簡單明確的指示與釐清，而這些知識觀念對當前以ADA為治療方法的這個醫療大環境下的糖尿病患者而言，是如清澈泉水亦如驚破警鐘；他也以過來人的身分不吝分享自己的治療狀況與成果，給人以最真實的數據表現乃至精神支持。
+
+Dr. Koutnik的這三篇部落格文章
+https://andrewkoutnik.com/part-1-what-is-type-1-diabetes/
+https://andrewkoutnik.com/part-2-the-risks-and-complications-of-t1d-and-current-management-tools/
+https://andrewkoutnik.com/part-3-can-you-achieve-optimal-blood-glucose-control-as-a-type-1-diabetic-2/
+為譯者於數年前在網上看到，深覺於疾病治療上助益甚大，但因事繁雜，無時間多做整理。近期在推特上和作者本人有短暫互動並提及翻譯之事，乃陸續將文章譯出。作者亦有油管（https://www.youtube.com/channel/UCuBoAR4gzVC5Y0e5raQLPkQ），行有餘力者不妨表達一下支持之意。
+
+林詠盛(Louis)譯, louisophie@gmail.com
+https://x.com/louisophie_/articles
+https://www.blogger.com/profile/17529498359072421715（內分泌相關文章及選譯、Short Essays on Anything Sensible）
+https://louisophie.wordpress.com
+https://github.com/louisophie/withinretreat/blob/main/Article-list.txt
+#糖尿病治療 #飲食科學 #糖尿病 #中文翻譯 #diabetes #dietary #translation #RichardKBernstein #AndrewKoutnik #內分泌相關文章及選譯
+
+============================================
+
+**這三篇文章是在2018年9月時開始陸續寫出並發表的，因此裏頭可能會有許多觀點及數據會因新的文獻及相關知識的出現而需要更新，所以請讀者務必要隨時注意相關資訊並做出適當的調整。**
+
+單元2：第一型糖尿病之風險、併發症及目前的治療方法
+還記得十二年前被送到醫院急診的時候，一開始我一直以為是急性病毒感染的問題，結果沒想到居然被診斷出得了第一型糖尿病，而那時我不過才16歲而已，且診斷結果並沒有對我造成什麼嚴重衝擊，我唯一想做的就是趕快回到原本「正常」的生活；後來我在醫院住了一個禮拜並上了院方安排的糖尿病護理課程，我才逐漸了解到事情的嚴重性：只有自己終身親力親為、積極努力治療才是活下去的唯一解方。我雖接受了我罹病的現實，但我單純地認為只要努力控制好血糖、聽醫生的話，我就可以像其它人一樣過著正常的生活；但一直到十年後、也就是我成為研究人員的生涯初期階段，我才赫然發現到各個長期的數據資料根本就打臉了我當初天真的想法，事實上我已經承擔了非常大的併發症風險了。也就是說，第一型糖尿病不只是一個晴天霹靂的診斷結果而已，就算是病人老實努力照著院方醫囑治療管控自己疾病，到頭來病人也無法得到好的治療結果。
+本單元深入探討的内容包括：
+評估較長期且實用的糖尿病血糖控制之生理數據：糖化血色素A1c（Hemoglobin A1c）。
+第一型糖尿病患者的血糖控制數據。
+第一型糖尿病的風險與併發症。
+當前的糖尿病治療方法與結果。
+
+糖化血色素：糖尿病生物標記的發現
+一般而言，糖化血色素可以算是糖尿病治療上最重要又具有預測價值的人體生理數據，其為存在於紅血球内的一種攜氧蛋白質，主要功能是將氧氣從肺部運送到周邊組織、使細胞能夠進行有氧呼吸以產生能量。它最早是在1840年由Hünefeld所發現（Hünefeld, 1840），一個多世紀後Max Perutz與John Kendrew因發現其分子結構而獲得諾貝爾獎（M.F. Perutz, 1960; M. F. Perutz et al., 1960）。60年代時科學家開始熱衷於分析不同類型的血色素（血色素變異體hemoglobin variants；目前已知超過1000種。Thom, Dickson, Gell, & Weiss, 2013）使研究熱潮達到高峰；當時的人尚未意識到，有關血色素變異體的研究分析，在不久後便成為了第一型與第二型糖尿病之最具預測性與診斷價值的生理數據之一。
+Samuel Rahbar（塞繆爾·拉巴爾）為伊朗醫師與科學家，當時在劍橋大學Hermann Lehmann（赫爾曼·萊曼）指導下致力於優化血色素變異體分析的技術（變異類型包括A1a-e、A2、F、H等等；S.L., 2011; Thom et al., 2013），並且開始研究一種稱為血色素A的變異體。當時分析單一個體血液的血色素變異體往往需要數小時，但在Rahbar的技術改良下，他能夠在不到30分鐘内同時處理多達8個血液樣本，並在後來回到伊朗後建立了自己的研究實驗室且持續進行研究，並且最後在速度上一天可檢測多達300個樣本的數量。Rahbar就是在這些血液樣本中做出了他最重要的發現之一：在一位67歲女性病患的血樣中，他發現到裡頭不是只有常見的兩種變異體血色素A與血色素A2而已，而是在血色素A的附近觀察到不一樣的東西。
+
+圖一：Samuel Rahbar醫師／博士
+
+為了釐清其是否為新的變異體並確認來源，他發現到病歷上說明其患有糖尿病；為了找出原因，Rahbar又另外分析了47位糖尿病患者的血液，且驚訝地發現到所有的47位伊朗病患都有這種這種少量的第三種新變異體（Rahbar, 1968）。為了驗證這項發現，他去了美國的阿爾伯特·愛因斯坦醫學院（Albert Einstein College of Medicine）與Helen Ranney（海倫·蘭尼）合作、並且進一步改良了血色素的分析技術：他研究了140位美國糖尿病患者的血液樣本、且發現到同樣都有相同的新型變異體，最後並成功分離出如今廣為人知的糖化血色素HbA1c（見圖2；Rahbar et al., 1969）。如今它被用來測定患者（非糖尿病患者亦同）2~3個月間的平均血糖水平、並被用來作為糖尿病認定與治療後成果的診斷工具（圖3：American Diabetes, 2010; International Expert, 2009）。
+
+圖2：血色素帶（瓊脂凝膠電泳、pH 6.2、0.05M 檸檬酸鹽緩衝液）
+(1) 糖尿病患者溶血物
+(2) 正常人溶血物
+(3) 純化之糖化血色素HbA1c（Rahbar, Blumenfeld, & Ranney, 1969）
+
+Rahbar於2012年因發現HbA1c與糖尿病的關聯而獲得美國糖尿病協會獎項；糖化血色素發展簡史見表1（Gebel, 2012）。
+
+圖3：依糖化血色素HbA1c比例對病患進行分類。小於5.7%為正常、5.7~6.4%為準糖尿病、大於6.4%為糖尿病。
+
+表1：修改自 (〈HbA1c: a history〉Gebel, 2012)
+圖片來源：https://andrewkoutnik.com/part-2-the-risks-and-complications-of-t1d-and-current-management-tools/
+Max Perutz 與 John Kendrew 發現血紅蛋白的分子結構,
+Holmquist與Schroeder鑑定出血紅蛋白A的五種亞型。
+Rahbar發現糖尿病患者的HbA1c水平較高。
+Koenig與Cerami提出HbA1c與代謝控制有關。
+糖尿病控制與併發症試驗確立HbA1c為第一型糖尿病患者的重要生理數據。
+英國前瞻性糖尿病研究確立HbA1c為第二型糖尿病患者的重要生理數據。
+美國糖尿病協會建議使用HbA1c檢測作為判定糖尿病與準糖尿病的標準。
+
+HbA1c個案數據實例
+我們可由圖4來了解HbA1c的機制與判定原理：左右兩個圖表分別代表血糖控制良好及不佳的情形、並呈現出最後如何影響HbA1c的比例。葡萄糖是一種具反應性的分子，會緩慢地自發性或經由酶的作用而與其他分子結合，此一化學過程就被稱為糖化作用（glycosylation）；因此若血糖在2到3個月内持續偏高，就會使更多的葡萄糖跟血色素A變異體結合，進而使得HbA1c所佔的比例升高，而這正是Rahbar當初能在糖尿病患者中分析出這個微弱血色素的變異體、但在健康個體中卻偵測不到的原因。叧外在近期一份針對第一型糖尿病患者的大型對照試驗中，病人的平均血糖水平跟HbA1c比例兩者間呈現強烈的正相關，進一步確認了上述許多早期的研究發現（圖5；Rohlfing et al., 2002）。HbA1c 已成為評估長期血糖控制最關鍵的指標，同時也是糖尿病患者健康狀況最重要的生理數據之一。
+
+圖4：日常血糖值與HbA1c。
+平均血糖值愈高、HbA1c比例愈大
+
+圖5：平均血漿葡萄糖（MPG）與平均HbA1c的相關性。數據來自DCCT中超過1400位的第一型糖尿病患者，顯示平均血糖濃度與HbA1c之間有強烈相關性（Rohlfing et al., 2002）。
+
+第一型糖尿病患有辦法控制好血糖嗎？
+2014年Pinhas-Hamiel及研究人員為了解不同年齡組的平均HbA1c比例，評估了349位第一型糖尿病患者的數據（見圖6；Pinhas-Hamiel et al., 2014），其中黃色線條表示各年齡層受試者的HbA1c中位數，藍色代表最低的10%、紅色則為最高的10%；為了說明這些HbA1c值與平均血糖值之間的關係，我使用了diabetes.org的轉換公式（https://professional.diabetes.org/diapro/glucose_calc）修改了圖6來呈現不同年齡組2~3個月的平均血糖變化趨勢（圖7）。
+圖6：不同年齡層的第一型病患（n=349）HbA1c圖表。
+圖7：圖6之HbA1c轉換成平均血糖值。
+數據顯示2~30歲的第一型糖尿病患者平均血糖約落在154~183 mg/dL（Pinhas-Hamiel et al., 2014），和正常血糖範圍80~120mg/dL相比較，這些第一型糖尿病患者的平均血糖值約為正常數值的2倍，長期如此則各式的併發症就很難倖免了（詳見下文）。
+圖8為網站T1D Exchange（https://t1dexchange.org/）的數據資料（裡頭有超過20,000名第一型糖尿病患者的數據），研究人員Hightower在這些資料中發現第一型患者的平均HbA1c比例為8.4%，對應到2~3個月的平均血糖值為195mg/dL；最近的一份數據為超過25,000名的第一型病患其平均HbA1c比例為8.0%、平均血糖值為183mg/dL。上述的這兩份數據同樣指出了第一型患者的平均血糖值約為一般正常人的2倍之多。
+圖8：T1D Exchange第一型患者的平均HbA1c數據。
+同樣在2014年，一大群研究者分析了來自19個不同國家、高達324,501位第一型糖尿病患者的血糖控制狀況（即HbA1c；McKnight et al., 2015）；這是*b*迄今為止規模最大的血糖控制研究報告*b*。他們根據年齡、性別與HbA1c來對第一型糖尿病患者進行分類（表2）：他們將比值分為低於7.5%、介於7.5~8.9%及大於9.0%三個區塊，並計算各類別的百分比為何。他們劃分的依據為糖尿病控制與併發症試驗（DCCT）與糖尿病介入與併發症流行病學研究（EDIC）的數據：和HbA1c在小於7.5%相比，大於9.0%時會顯著改變第一型糖尿病的併發症發生率與風險（Nathan et al., 2005; White et al., 2008），而研究人員們想知道有多少的第一型病患是屬於低風險的類別：他們發現*b*有高達72%的患者其HbA1c大於7.5%*b*、相當於平均血糖值大於169mg/dL，且更不幸的是*b*數據指出超過3成（31%）的人其平均血糖值大於212mg/dL*b*。
+表2：第一型患者之HbA1c跨國分析。
+以上三份研究並非特例，更多的數據證實了這些發現：
+更多研究證實了這些發現：
+http://care.diabetesjournals.org/content/39/12/e214	HBA1c: 8.2~8.7% → 189~203mg/dL [n=1,972; Sherr et al., 2016)]
+https://jamanetwork.com/journals/jamaophthalmology/article-abstract/635006?redirect=true	HBA1c: 12.6% → 298mg/dL [n=996; Klein, Klein, Moss, Davis, & DeMets, 1984)]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867999/	HBA1c: 7.2~9.1% → 160~214mg/dL [n=1,441; (Nathan & Group, 2014)]
+https://www.ncbi.nlm.nih.gov/pubmed/9850487	HBA1c: 7.05~7.09% → 156~157mg/dL [n=3,867; (Turner, 1998)]
+http://care.diabetesjournals.org/content/34/8/1843	HBA1c: 7.3% → 163mg/dL [n=268; (Kuenen et al., 2011)]
+https://jamanetwork.com/journals/jama/fullarticle/2656808	HbA1c: 8.0~8.2% → 183~189mg/dL [n=30,579; (Karges et al., 2017)]
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31506-X/fulltext	HbA1c: 7.9~8.5% → 180~198mg/dL [n=27,195; (Rawshani, 2018)]
+
+圖9：HbA1c分類圖表。小於5.7%為正常、5.7~6.4%為準糖尿病、大於6.4%為糖尿病；第一型糖尿病為7.0~9.0%。
+
+綜合這些研究顯示（超過400,000位第一型受試者者）HbA1c的數值範圍極廣（約7~12.6%）、整體估計平均比例約8%，由此可得大多數第一型患者的平均血糖值約為183mg/dL、為正常數值的2倍。但這對第一型患者意味著什麼？長期高血糖會有什麼後果呢？我們可以從中獲得什麼資訊嗎？
+
+血糖變異數
+第一型糖尿病除了HbA1c及平均血糖值都偏高外，研究也發現一旦HbA1c愈高、每日的血糖變異數（即不穩定度）也就愈大（Kuenen et al., 2011）、低血糖的發生率也愈高(Hypoglycemia in the Diabetes Control and Complications Trial and The Diabetes Control and Complications Trial Research Group, 1997）。也就是說高HbA1c比值、血糖不穩定及更多的低血糖事件三者是互為正相關的，病患也因此就會更加地危險。
+（Kuenen et al. 2011）使用標準差（standard deviation）來描述第一型患者的血糖表現（表3）並觀察他們每日血糖上下的振蕩幅度：他們發現到其平均血糖值為162mg/dL、標準差為64.8mg/dL，也就是說*b*每天*b*的血糖值會在162mg/dL上下波動約60mg/dL的數值（即高低差最大可達120mg/dL以上）；這份報告也指出有超過90%的受試者其血糖波動幅度大於30mg/dL、超過57.8%波動幅度在60~90 mg/dL之間。有了這些數據，當我們再去看單元1的圖9及圖10時，就不會感到驚奇了。
+
+表3：第一型與第二型糖尿病患者的血糖變異數。表中比較了兩者的平均血糖值（MPG）及標準差（CGM SD；譯注：即由連續血糖監測而得之標準差數據），最後再將標準差分為4個區間來作對比。本表改自 (Kuenen et al., 2011)。
+
+血糖大幅波動的急性症狀
+血糖的頻繁上下大幅振蕩代表高血糖（hyperglycemic）及低血糖（hypoglycemic）症狀的積累；對許多的第一型患者來說，這種上下起伏的情形可能每天都會發生、乃至一天數次都有可能，雖然這不代表日子過不下去，但長期的如此一而在再而三地發生，患者的生活品質就會受到嚴重的影響（Rombopoulos, Hatzikou, Latsou, & Yfantopoulos, 2013; Vanstone, Rewegan, Brundisini, Dejean, & Giacomini, 2015; Yfantopoulos, Hatzikou, Rombopoulos, Panitti, & Latsou, 2014）。而多數的第一型病人不只平均血糖過高且變異數又過大，相關的慢性症狀及併發症就會無可避免地浮現出來。
+圖10：第一型病患24小時的血糖數據。改自單元1的圖9，並附上高、低血糖時的可能發生的狀況。
+高血糖症狀可參考 (Staff, 2018a): https://www.mayoclinic.org/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631
+低血糖症狀可參考 (Staff, 2018b): https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685
+
+上述僅為每日短期性的問題而已，第一型病人的長期性併發症才是最可怕的後果。
+
+被診斷出第一型糖尿病到底代表了什麼？
+（Livingstone et al., 2015）針對24,691位蘇格蘭第一型糖尿病患者與非糖尿病者進行比較，除了分析各類疾病與非疾病死因的死亡率外、並進一步預估壽命：研究顯示，與非糖尿病者相比，第一型患者在所有死因的死亡率均較高（表5呈現依年齡與性別分類的死亡率數據，並以紅色框標示出第一型患者在癌症、心血管疾病、自殺等特定死因上死亡率增加的情形）。這些數據清楚表明第一型糖尿病患者在確診時面對的不僅是一個絕命性的噩耗，其他各式疾病的風險也大幅地上升；且該研究進一步預估不同性別患者的預期存活年數，其數據令人吃驚：如圖 11 所示，*b*第一型糖尿病患者其平均預期壽命較非糖尿病同儕短少十年以上*b*。
+表5：第一型患者與非糖尿病者的特定死因死亡率。呈現不同年齡層之第一型糖尿病男性與女性的死因，紅色框標示其風險增加顯著。修改自（Livingstone et al., 2015）。
+圖11：第一型患者相較於同年齡的非糖尿病者，其預期壽命會縮減；男性平均約達11年、女性約13年。
+
+（Rawshani et al., 2018）為進一步釐清診斷年齡對疾病預後的影響，針對27,195名瑞典第一型糖尿病患者進行了長達十年（中位追蹤時間）的研究，並與135,178名配對對照組進行比較。結果顯示，與對照組相比，在10歲前確診的第一型糖尿病患者，其罹患冠心病與心肌梗塞的整體風險高達30倍（圖12）；其中女性患者尤為驚人，風險更分別攀升至60倍與90倍。此外，在死亡風險方面，0~10歲與26~30歲確診的患者，其全因死亡風險分別較對照組高出4.11倍與3.62倍。進一步估算預期壽命損失發現，10歲前確診將導致女性與男性分別縮短17.7年與14.2年；即使延至26~30歲才罹病，預期壽命仍會減少約十年。這些數據不僅驗證了（Livingstone et al., 2015）的早期發現，也明確且殘酷地指出問題有多嚴重。
+圖12：第一型患者與配對之非糖尿病對照組，兩者進行各類死亡原因與疾病診斷之調整後危險比的分析；危險比定義為第一型患者的疾病發生率除以對照組（本論文將男女數據合併計算）。修改自（Rawshani, 2018）。
+
+（Conway et al., 2018）針對在20歲前（早期發病）或20~29歲間（晚期發病）罹患第一型糖尿病的患者，研究人員比較了其疾病與死亡風險，並進一步將這些糖尿病患者與非糖尿病族群進行對照（表6）以探討診斷年齡是否影響其他疾病的風險。結果顯示，第一型糖尿病患者的全因死亡風險升高、且對多種常見疾病的風險也顯著增加，包括心臟病、腎臟病、呼吸系統疾病、感染、癌症以及意外。儘管此研究僅納入已存活至40歲的個體，其結果依然呈現出與（Livingstone et al., 2015）相似的趨勢：相較於非糖尿病同儕，第一型糖尿病患者面對多項主要死因的風險均明顯上升。
+表6：兒童期發病與青年期發病的第一型患者與非糖尿病者的死亡發生率。論文同時將白人、非裔美國人之第一型患者與對照組做比較；紅色框標示第一型患者相較於對照組死亡率較高的項目。
+上述的三篇論文（Conway et al., 2018; Livingstone et al., 2015; Rawshani, 2018）只是針對慢性疾病風險及存活率做比較而已，*b*事實上（Murphy SL, 2017）更是指出所有的前十大死因第一型糖尿病患者皆有極高的死亡風險*b*。
+**下面將詳述各種死因（及其它疾病）風險顯著增加的證據。**
+
+第一型糖尿病疾病風險（*為第一型及胰島素注射的第二型）：
+（Rawshani, 2018；總體死亡率、心臟病、中風*）：https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31506-X/fulltext
+（Conway et al., 2018；總體死亡率、心臟病、慢阻肺、意外、中風*、感染*、腎臟病*）：https://www.ncbi.nlm.nih.gov/pubmed/29532512
+（Livingstone et al., 2015；總體死亡率、心臟病、癌症、慢阻肺、中風*、 感染*、腎臟病*、自殺*）：https://jamanetwork.com/journals/jama/fullarticle/2088852
+（DCCT-EDIC Study Research, 2016；總體死亡率）：http://care.diabetesjournals.org/content/early/2016/05/14/dc15-2399
+（Lind et al., 2014；總體死亡率）：https://www.nejm.org/doi/full/10.1056/NEJMoa1408214
+（Livingstone et al., 2012；心臟病）：https://pmc.ncbi.nlm.nih.gov/articles/PMC3462745/
+（Soedamah-Muthu et al., 2006；心臟病）：https://www.ncbi.nlm.nih.gov/pubmed/16567818
+（Carstensen et al., 2016；癌症）：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826427/
+（Songer & Dorsey, 2006；意外）：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217477/
+（Kennedy et al., 2002；意外）：https://www.ncbi.nlm.nih.gov/pubmed/11956379
+（Ståhl et al., 2017；中風*）：https://www.ncbi.nlm.nih.gov/pubmed/27925333
+（Whitmer RA, 2015；阿茲海默症*）：https://www.alzheimersanddementia.com/article/S1552-5260(15)02297-9/abstract
+（Simonsen et al., 2015；感染*）：https://www.ncbi.nlm.nih.gov/pubmed/25767718
+（Sarkar & Balhara, 2014；自殺*）：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4138899/
+
+認知衰退：
+（Chaytor, 2016; Chaytor et al., 2018; He, Ryder, Li, Liu, & Zhu, 2018; Nunley et al., 2015）
+http://care.diabetesjournals.org/content/early/2015/07/01/dc15-0041
+https://www.sciencedirect.com/science/article/pii/S1056872718301090#!
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5111534/
+https://www.ncbi.nlm.nih.gov/pubmed/29573221
+腦部結構改變：(Fox et al., 2018; Mazaika et al., 2016)
+https://www.ncbi.nlm.nih.gov/pubmed/29654376
+https://www.ncbi.nlm.nih.gov/pubmed/26512024
+
+視網膜病變（超過80%的第一型病患都有極大風險）：（Fong et al., 2004; Hietala et al., 2010; Klein et al., 1984; Klein, Knudtson, Lee, Gangnon, & Klein, 2008）
+http://care.diabetesjournals.org/content/27/suppl_1/s84
+https://jamanetwork.com/journals/jamaophthalmology/article-abstract/635006?redirect=true
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2761813/
+http://care.diabetesjournals.org/content/33/6/1315
+
+生長遲緩：（Bonfig et al., 2012; Frohlich-Reiterer et al., 2011; Hannon & Rogol, 2012; Khadilkar et al., 2013; Parthasarathy, Khadilkar, Chiplonkar, & Khadilkar, 2016）
+https://www.ncbi.nlm.nih.gov/pubmed/27889727
+https://www.ncbi.nlm.nih.gov/pubmed/24381884
+https://www.ncbi.nlm.nih.gov/pubmed/22361220
+https://www.ncbi.nlm.nih.gov/pubmed/22244464
+https://www.ncbi.nlm.nih.gov/pubmed/21051047
+
+綜合而言，這些數據說明了清楚不過的事實：第一型糖尿病患者不只是單一的罹患疾病而已，而是面臨了十大主要死因風險顯著增加、且平均預期壽命縮短約十年的處境。
+**重要的是釐清「風險」一詞的真正內涵：它意味著特定事件發生的機率較高，但絕非指「必然發生」的定局。舉例而言，我親身接觸過年逾八十、罹患第一型糖尿病長達六十年卻未出現任何併發症的患者；同時也認識其他病患在不到六十年間已面臨多種相關併發症。這正說明相關數據所反映的僅是機率的提升而非必然的結果。儘管如此，清晰理解自身風險可能升高仍然至關重要——唯有如此，我們才能採取積極行動，有效降低這些潛在威脅。**
+
+第一型糖尿病患者急性狀況與嚴重慢性併發症的雙重風險
+這兩項互為表裡的病因相當明確且合乎邏輯：多篇重要文獻指出，此類風險與併發症大多可直接或間接歸因於血糖控制不佳——亦即長期血糖升高與血糖大幅波動所構成的「血糖失常」狀態。然而，這種情況卻常被視為第一型糖尿病患者日常生活中「正常」的一部分，進而使得相關健康危機持續潛藏並漸趨嚴重（Atkinson, Eisenbarth, & Michels, 2014; Bluestone, Herold, & Eisenbarth, 2010; Chiang, Kirkman, Laffel, Peters, & Type 1 Diabetes Sourcebook, 2014; Daneman, 2005; Forbes & Cooper, 2013; Maahs, West, Lawrence, & Mayer-Davis, 2010）。
+相關重要文獻資訊：
+（Atkinsion et al., 2013）紅框文字：不論醫療成本，將血糖控制在正常範圍內始終是第一型患者最重要的治療目標、並避免日後相關併發症的出現。
+（Maahs  et al., 2010）：血糖控制試驗是青少年糖尿病照護的基石，但即使在糖尿病控制與併發症試驗（DCCT）中密集治療組與傳統治療組的平均A1c皆比成人高1~2%，且青少年的低血糖發生率仍高於成人。另外最近發表於第一型糖尿病全球血糖控制指南領域的（Hvidøre）指出，有超過2,000名的第一型青少年其平均A1c為8.6%；同樣在（SEARCH）的數據顯示第一型青少年平均A1c為8.2%、且有17%的患者A1c大於9.5%。值得注意的是，數據顯示密集治療的組別對於心血管疾病有較好的療效。有許多因素被認為在青少年血糖控制較成人更差的現象中扮演重要角色，包括……
+（Bluestone  et al., 2010）紅框文字：一旦β細胞被破壞，第一型糖尿病患者便失去血糖控制的能力，除了可能導致急性狀況（如酮酸中毒與嚴重低血糖）以及長期性併發症（包括心臟病、失明與腎衰竭）——即使使用目前的胰島素替代療法亦然。
+（Forbes et al., 2010）：總體而言，動脈粥樣硬化和心肌損傷的發生，很可能至少部分源自高血壓、血管通透性改變以及缺血所造成的影響。然而重要的是，長期的HbA1c、無論是對第一型或第二型的糖尿病患者，仍然是預測心血管疾病風險的最佳指標。氧化壓力和慢性發炎會顯著改變血管內的基因表現，使得血管從原本抗發炎、抗血栓的狀態，轉變為致病性的促發炎與促血栓狀態。此外，糖尿病患者還存在血管修復功能障礙，表現為內皮祖細胞的減少，這又會進一步加劇前述的多器官併發症，從而導致在兩種主要糖尿病類型中觀察到的顯著發病率及過早死亡的現象。
+（Chiang et al., 2014）：糖尿病起自高血糖，而高血糖與併發症的發生率直接相關，因此血糖控制是糖尿病管理的根本。
+（Daneman）：DCCT及其他研究均證實，透過加強糖尿病管理以維持理想的血糖與HbA1c，無論對於一級預防或二級介入都具有明確且重要的影響。雖然本文不擬深入討論達成各年齡層血糖目標的具體策略，但血糖控制作為糖尿病管理中最重要的可調控風險因子，其關鍵性無論如何強調皆不為過。
+
+
+
+*b*隨著糖化血色素（HbA1c）的發現及其與糖尿病長期血糖控制之間的關聯獲得確認，精準預測第一型糖尿病併發症與相關風險將更為有效率；然而各項研究亦清楚顯示，第一型患者往往難以達到理想的HbA1c值以消除長期高血糖與血糖頻繁波動所帶來的各種風險，更不用說還有其他如空腹血糖、餐後高血糖、總葡萄糖暴露量及HbA1c的時間變異性等等同樣會造成風險的因素（Ceriello, 2005; Kilpatrick, Rigby, & Atkin, 2008a, 2008b; Lachin et al., 2008）。只有透過積極維持血糖的正常與控制，才能有效降低因血糖控制不好所造成的種種併發症與疾病風險；這也就是說，與其在併發症發生後才被動因應，不如採取主動預防的策略才是正道（預防大於治療）。整體而言，這些發現不僅為臨床實踐提供了明確的目標與方向，也為患者管理帶來積極的啟示與鼓舞。
+理論上，只要能將血糖控制在正常數值内、病患就能降低相關的風險與併發症。近年來，隨著新型管理技術與工具的陸續出現，我們不禁要問：第一型患者的血糖是否有獲得更好的控制？這些新技術是什麼、其實際效果又究竟如何呢？*b*
+
+第一型糖尿病當前的血糖管理技術與解決方案
+本小節將探討八種專為第一型糖尿病所發展的治療方法與技術，目的在於提升患者的血糖控制並減輕日常疾病管理的負擔。文中將逐一討論各項目的實際應用性與臨床效果，並援引具體研究實例加以佐證說明。
+碳水計量法（Carbohydrate Counting）
+密集胰島素治療（Intensive Treated Therapy）
+胰島素泵浦（Insulin Pumps）
+連續血糖監測（Continuous Glucose Monitor）
+人工胰臟（Closed Loop System）
+胰島細胞移植（Islet-Cell Transplantation）
+BCG疫苗（Bacillus Calmette-Guérin Vaccine）
+幹細胞療法（Stem Cells）
+
+1.碳水計量法
+碳水化合物對血糖濃度有最大影響（詳見單元3），血糖越高意味著所需的胰島素劑量也越大，因此了解攝取碳水化合物的量所對應之胰島素需求至關重要。為此，臨床上發展出「碳水計量法」的治療方法來指導第一型患者估算食物中的碳水化合物總值（例如15克碳水化合物相當於1個碳水單位）、並進一步計算所需的胰島素劑量（例如每15克碳水對應1單位胰島素）。這套方法在診斷時幾乎會教導給所有第一型的患者。
+
+這種治療方法對病人的血糖控制有幫助嗎？
+（Goksen et al., 2014）針對第一型患者以「碳水計量法」來對血糖控制及心血管健康做研究；患者接受碳水計算的訓練、學習根據每餐攝取的碳水化合物含量計算相應的胰島素劑量。在此期間其總熱量攝入有50~55%來自碳水化合物。結果顯示，採用此方法2年後，患者的HbA1c比例有顯著下降、且實施組的高密度脂蛋白顯著高於對照組；但兩組在胰島素劑量、BMI、三酸甘油酯、總膽固醇與低密度脂蛋白方面則未呈現顯著差異。
+圖13(左)：禮來針對糖尿病患者與照護者提供的「碳水化合物計算指南」（Constance A, 2011; Spiegel G, 2015）。
+表7(右)：起始點、碳水計量法後1年、後2年及對照組之的HbA1c比較（Goksen, Atik Altinok, Ozen, Demir, & Darcan, 2014）。
+
+HbA1c比例到底下降多少呢？
+碳水計量組平均HbA1c下降了0.23%（表7），這相當於平均血糖從186mg/dL降至179mg/dL，降幅約為7mg/dL；但儘管此降幅在統計學上達顯著差異，其臨床意義有限、且未給血糖控制帶來什麼實質的改善。
+
+2.密集胰島素治療
+此法在透過更頻繁地監測血糖與即時進行胰島素校正以達到更穩定的血糖控制。過去此療法被視為「密集」的原因，在於每日注射超過2次即被認為是相當積極的處置，且當時普遍認為超過此頻率可能增加低血糖風險；但相對而言，每日少於3次注射則被認為既能避免高血糖症狀、也可減少頻繁或嚴重的低血糖發生。然而隨著治療觀念與技術的演進，現今每日超過3次的胰島素注射已成為相當普遍的臨床實踐。
+為評估第一型糖尿病患者透過更頻繁的血糖監測並配合每日三次或以上的胰島素注射是否能有更理想的療效，兩項規模最大、追蹤時間最長的對照試驗隨之展開（Diabetes et al., 1993; Diabetes et al., 2009）。這些由橫跨多所大學與診所組成的研究團隊所執行的試驗，統稱為「糖尿病控制與併發症試驗／糖尿病介入與併發症流行病學（DCCT/EDIC）研究群組」。試驗中比較了兩種治療策略：一組採取密集治療、即每日接受至少三次胰島素注射或使用胰島素泵浦來持續輸注；另一組則為傳統治療，每日僅接受不超過兩次的胰島素注射。
+
+受試者的血糖控制結果
+傳統治療組的HbA1c從初始的8.9%上升至9.1%，而密集治療組則由8.9%顯著下降至7.4%、降幅達1.5%，相當於平均血糖由209mg/dL降至166mg/dL（降低43mg/dL）。鑒於密集治療所展現的顯著效果，原傳統組隨後也轉為接受密集治療，使其平均HbA1c自9.1%進一步降至7.7%（平均血糖下降約40mg/dL）。儘管HbA1c的降幅相當明顯，本試驗的核心發現在於密集治療能顯著降低糖尿病相關併發症（表9），因而常被引證為積極控制HbA1c可有效減少第一型糖尿病患者併發症的重要依據（NIDDK, 2008）。此外該研究亦提供了平均血糖與HbA1c之間高度相關的關鍵數據，對推動HbA1c成為當今糖尿病診斷與監測的核心生理數據具有深遠影響（Rohlfing et al., 2002）。
+然而值得注意的是，即使經過密集胰島素治療，患者的平均血糖仍維持在166mg/dL、遠高於正常的血糖值，因此併發症的風險雖降低、但卻*b*未完全消除*b*。
+
+表8：DCCT、EDIC受試者在密集胰島素治療前後的HbA1c對比（ Diabetes et al., 2009）。
+表9：DCCT、EDIC受試者在密集胰島素治療前後的併發症結果對比（Diabetes et al., 2009）。
+
+3.胰島素泵浦
+胰島素幫浦旨在減輕患者每日多次注射的負擔；機器由多個組件構成（圖14），能同時提供基礎胰島素（basal）與餐時胰島素（bolus）的輸注，且注射劑量可精確測量至0.1單位（見單元3）。此裝置亦具備多項優點：1.使用者無需隨身攜帶胰島素瓶與針筒。2.允許胰島素暫停輸注；這是傳統長效胰島素注射無法實現的功能（單元3）。然而胰島素幫浦仍有潛在缺點，包括1.因持續在同一部位輸注而可能引發局部發炎、感染乃致造成胰島素阻抗。2.使用者須全天候配戴。
+
+圖14：Medtronic胰島素幫浦
+
+泵浦療法對血糖控制有用嗎？
+（Karges et al., 2017）評估了超過30,000位分別使用胰島素注射或胰島素泵浦的第一型患者，結果顯示兩組的平均HbA1c分別為8.2%與7.9%（皆為正常血糖值的兩倍），血糖控制水準差異甚微。儘管不同研究對泵浦療法的效果存在變異——部分顯示改善，部分則否——且迄今並無任何的泵浦試驗能夠使患者的血糖正常化，但對於部分覺得攜帶胰島素及衛材感到麻煩的第一型患者，胰島素泵浦仍可能提供一定程度上的便利性。
+
+表8：注射療法與泵浦療法在配對與未配對群體中的HbA1c比較（n=19,628 vs 30,579；Karges et al., 2017）。
+
+4.連續血糖監測（CGM）
+CGM彌補了在指尖採血的間隔中無法持續掌握血糖變化的限制，為第一型糖尿病患者提供了更完整的血糖數據資料。其運作方式是將表面塗有葡萄糖氧化酶的感測器套管置入脂肪組織（DexCom, 2012），該酵素能分解葡萄糖並產生過氧化氫、進而在傳輸器內轉換為電訊號並傳送至接收裝置（如手機、手錶或手持器材等），並配合指尖採血的定期校正，將數據轉換為每分鐘自動更新、全天候不間斷的「估計血糖值」（感測器位於脂肪組織中，因此其測量的是間質液內的葡萄糖濃度並間接計算出血糖值）。自產品推出以來，CGM的準確度已顯著提升（Laffel, 2016）。接收器可事先設定警報以即時提示血糖劇烈波動或異常狀況，對於睡眠期間無法覺察的低血糖特別地有用；此外多數CGM還能呈現血糖數值分析與趨勢走向。我認為這在血糖控制及數據供給上對第一型患者是最有幫助的醫療工具。
+
+圖15(上)：傳輸器（Transmitter）及感測器（Glucose Sensor）示意圖與Dexcom接收器（Receiver）裝置。
+圖16(下)：連續血糖監測流程圖。血糖機（Blood Glucose Meter）用於機器校正。
+
+CGM對血糖控制有用嗎？
+（Langendam et al. 2012）對22項研究進行統合分析，比較僅使用血糖機與額外搭配CGM（含是否併用胰島素泵浦）在6至18個月內的血糖控制成效。結果顯示（該報告未能提供基準HbA1c）單獨使用CGM可使HbA1c降低0.2%（相當於平均血糖下降6mg/dL），而合併使用CGM與胰島素泵浦則可使HbA1c降低0.7%（相當於平均血糖下降20mg/dL）。兩項分析均未呈現統計上的顯著血糖改善，但儘管如此，CGM仍是一項極具價值的工具，能提供24小時的持續血糖監測，反映飲食、運動與生活型態對血糖的影響、並對高低血糖事件出現時警示病人。
+表9：CGM及CGM+胰島素泵浦與對照組的HbA1c比較（Langendam et al., 2012）。
+
+5.人工胰臟（Closed Loop System）
+                            ↗  〔血糖值變動〕   ⤵
+   〔胰島素輸注〕  【閉環系統】  〔CGM感測血糖〕⤵
+	       ↖〔胰島素泵浦〕⬅〔自動計算胰島素用量〕 
+英文直譯為「閉環系統」，其運作原理是由CGM即時監測血糖並告知胰島素泵浦所需輸注的劑量再自動給藥，其中幾乎無須人為介入，免去了第一型患者日常的用藥注射負擔。但為確保系統在設備出錯時仍能維持安全，主機會將血糖下限設定於120mg/dL（下限閾值）；此安全機制雖降低了低血糖風險，卻也同時限制了系統將血糖正常化的可能。
+
+人工胰臟對血糖控制有用嗎？
+（Garg et al., 2017）針對124位第一型糖尿病患者（包括30位兒童及94位成人）進行為期三個月的閉環系統使用觀察，結果顯示兒童與成人的HbA1c分別下降0.6%與0.5%（表9）；此效果與其他閉環試驗（Messer et al., 2018）及CGM結合胰島素泵浦（非全自動）的研究結果相近（Langendam et al., 2012）。根據圖18所呈現的平均血糖趨勢，人工胰臟可將血糖自動維持在130~180mg/dL之間且不會低於120mg/dL，反映出該技術具備一定的安全性與限制：它能安全且便利地管理血糖，但未能完全將血糖恢復至健康人的正常範圍。值得注意的是，部分第一型患者為進一步達成血糖正常化，已開始自主調整閉環系統、並移除原先設定好的120mg/dL之下限閾值，以使胰島素泵浦得以更積極地調控血糖（https://openaps.org）。
+
+表10：人工胰臟「Run In」階段（前兩週的校正期）與使用後3個月成人及兒童的HbA1c變化(Garg et al., 2017)。
+圖18：兒童與成人使用CGM所收集之平均血糖值約為135~170mg/dL；「Run in」階段以灰色標示）、校正後階段為紅色（Garg et al., 2017）。
+
+6.胰島細胞移植（Islet-Cell Transplantation）
+第一型糖尿病肇因於胰臟β細胞遭受破壞，若能重新建立功能正常的β細胞則可視為一種「治癒」。對此，（Shapiro et al., 2000）發表了一項突破性結果：他們將捐贈者屍體中相當於2至3個胰臟的胰島細胞組織移植至第一型患者的體內。
+
+胰島細胞移植對血糖控制有用嗎？
+（Shapiro et al., 2006）提出了突破性的結果，指出患者在接受移植後，血糖控制成功達至正常化——三個月後HbA1c降至5.7%（降低2.7%、平均血糖下降了77mg/dL）。此結果為許多第一型病患帶來「治癒」的希望；然而後續追蹤顯示功效並未持久，兩年後僅剩36%的患者仍保有移植胰島的功能。
+
+表11：第一型糖尿病患者在胰島細胞移植前、後3個月與後6個月的HbA1c變化（Shapiro et al., 2000）。
+
+儘管胰臟與胰島細胞移植均為治療糖尿病帶來重大突破且未來應用可期，但現階段仍無法廣泛推行，原因如下：
+1)手術程序。全胰臟移植因涉及大範圍的腹部手術，風險較高；相對而言，胰島細胞輸注僅需透過門靜脈進行微創手術，風險相對較低。（Almehthel M, 2015; Diabetes Canada Clinical Practice Guidelines Expert, Senior, AlMehthel, Miller, & Paty, 2018）。
+2)免疫抑制劑。在接受外來捐贈者組織移植後，患者可能面臨極高的免疫系統排斥風險（graft-versus-host disease，外來物排斥反應），為降低移植排斥的發生，患者需長期使用免疫抑制劑。儘管這類藥物的副作用相對較輕，但由於免疫系統受到抑制，患者可能有機會發生危及生命的嚴重感染（Alejandro, Barton, Hering, Wease, & Collaborative Islet Transplant Registry, 2008; Gruessner, Sutherland, & Gruessner, 2004）。
+3)移植器官存活期過短。移植器官往往無法長久維持，即使使用免疫抑制劑仍可能會發生排斥反應。以全胰臟移植為例，報告指出其中位數器官存活期約為9年（Everly, 2009）；胰島細胞移植方面，研究顯示移植後5年內仍能維持療效（即無需外源胰島素）的比例僅約10%（Ryan et al., 2005），但近期報告則顯示比例已顯著提升至60%（Qi et al., 2014）。
+4)捐贈者來源有限。目前胰臟與胰島細胞移植主要依賴屍體捐贈，且每次移植通常需要約1至3位捐贈者的器官組織，因此移植人數相當有限；研究人員正積極嘗試從幹細胞直接分化出β細胞以滿足需求（Chhabra & Brayman, 2013）。
+5)血糖控制成效不一。研究顯示全胰臟移植可明顯提升患者的血糖控制能力、使HbA1c維持在5.8~6.0%之間並改善葡萄糖耐受性（Lauria et al., 2010）；而接受胰島細胞移植的患者，其HbA1c可進一步降至5.6~5.7%、且有效預防嚴重低血糖的發生（Hering et al., 2016; Shapiro et al., 2000）。然而部分報告也指出移植後可能出現HbA1c升高（>6.5%）的情形，導致患者需重新接受胰島素治療（Mobley et al., 2017; Thompson et al., 2011）；此現象部分可歸因於「移植後糖尿病」（Post-Transplant Diabetes Mellitus）現象，即患者在移植後被診斷出罹患第二型糖尿病（Shivaswamy, Boerner, & Larsen, 2016）（譯注：即在移稙後血液胰島素濃度過高而形成胰島素抗阻）。
+6)醫療成本高昂。目前移植治療仍普遍被視為實驗性療法，費用大多僅能依賴研究經費補助或由患者自行負擔。
+
+7.BCG疫苗（Bacillus Calmette-Guérin Vaccine）
+2018年有報導將一項針對第一型糖尿病的小型試驗性研究譽為潛在的治癒方法：（Kuhtreiber et al., 2018）對少數患者施以雙劑量疫苗，發現接種後第5年與第8年的HbA1c顯著下降（分別從7.37%降至6.18%、以及維持在6.65%）。研究指出，疫苗可能透過將免疫細胞的代謝途徑從氧化代謝轉向有氧糖解、從而重新調整免疫系統，其作用機制在代謝層面上類似於常見藥物二甲雙胍metformin。然而此試驗的受試者極少（第5年追蹤僅9人、第8年僅剩3人），且未記錄胰島素使用、飲食或生活型態等等關鍵變項，因此無法斷定HbA1c的下降是否確實源於疫苗、還是受其他生活因素的影響。儘管結果遠不能稱為「治癒」，但仍為降低HbA1c提供了一項可能的治療方向，並期待日後有更大規模的臨床試驗以驗證這項療法。
+表12：注射疫苗時、後5~8年的HbA1c（Kuhtreiber et al., 2018）。
+
+8.幹細胞療法（Stem Cells）
+幹細胞被視為恢復β細胞功能以及克服自體免疫問題的有力治療選項之一（Chhabra & Brayman, 2013）。由於第一型的自體免疫特性，即使生成新的β細胞仍可能遭受免疫系統的破壞，因此新的療法為利用幹細胞調節或抑制免疫系統來對抗自體免疫反應，目前已有各式各樣因人而異的治療方案被開發，希望透過重新編程免疫系統以改變β細胞造成的自體免疫性（Couri & Voltarelli, 2009）。部分研究報告顯示，對於仍有殘餘β細胞功能的患者，雖可達到短期無需胰島素治療的成效，但對於已無殘餘β細胞的第一型患者，欲實現長期且穩定的β細胞功能恢復，目前仍面臨相當大的挑戰。
+
+當前治療成果
+觀察上述各種治療技術與器材的相關數據，顯示它們對第一型患者的血糖控制多少有所幫助，但對整個病患
+觀察上述各種治療技術與器材的相關數據，顯示它們對第一型患者的血糖控制多少有所幫助，但對整個病患群體而言，似乎尚無實質性的重大影響（由於缺乏長期性數據，仍難以有確切證實的結論）。（Foster et al., 2019）為針對超過20,000名第一型糖尿病患者進行分析、追蹤比較其2010~2012與2016~2018年間血糖管理狀況的重要研究；圖19顯示HbA1c整體平均數值由2010~2012年的7.8%上升至2016~2018年的8.4%，且兒童族群的血糖控制表現最為差勁。這份近期的數據揭示，在過去十年間第一型糖尿病患者的血糖管理不僅未見改善、反而可能呈現惡化的趨勢。
+
+圖19：2010~2012至2016~2018年受試者的HbA1c，呈現血糖控制變得更差（Foster et al., 2019）。
+
+*b*目前針對第一型糖尿病的「治癒」方向，主要包括免疫調節療法、β細胞移植以及幹細胞療法等多項積極研究的領域，然而真正的治癒在短期內仍難以實現。要維持長期的葡萄糖感測與胰島素分泌功能，必須進一步優化胰島細胞移植、發展幹細胞療法，或克服自體免疫的破壞，這些皆是艱鉅的挑戰。因此大多數患者現階段仍需依賴現有的治療選項，例如營養策略、強化血糖監測與注射技術、電腦輔助血糖監測及胰島素輸注技術等等。雖然部分方法已證實有助於改善血糖控制，但目前尚無任何療法能真正使血糖控制完全正常化——事實上，現有成效與理想目標仍相距甚遠。
+但這就表示第一型糖尿病患者註定血糖無法維持穩定、必須終生持續面對急性與慢性併發症的風險嗎？是否有經證實能幫助患者血糖正常化、並能有效降低併發症與壽命縮短風險之立即可用的治療方法呢？
+請務必繼續閱讀單元3。*b*
+
+本單元摘要：
+血紅蛋白（Hemoglobin）是紅血球內負責攜氧的蛋白質，功能為將氧氣從肺部運送到其他組織以供細胞產生能量。
+糖化血紅蛋白A1c（HbA1c）是血紅蛋白的一種變異形式、會與葡萄糖結合而糖化（glycosylated）。
+HbA1c是糖尿病最重要且最具預測及診斷價值的生理數據，能反映過去2~3個月內的平均血糖值。
+平均血糖值和HbA1c有高度相關。血糖越高、結合到血色素的葡萄糖就越多，因此HbA1c比例也越高。
+第一型患者的平均血糖約為正常一般人的2倍，而長期高血糖會導致嚴重的併發症。
+HbA1c越高、血糖變異性（不穩定性）就會越大，並伴隨著各種風險與併發症，其中包括每天可能出現的高低血糖症狀，這對第一型患者極其地危險。
+*b*第一型患者對於當前十大主要死因的風險均大幅增加、平均預期壽命比非糖尿病者短約十年*b*，因此第一型糖尿病並非僅僅只是一個症狀，控制不良則會產生各式併發症及多項疾病風險的增加。
+
+目前常見的治療方法、工具及控制成果：
+碳水計量法：此法藉由追蹤碳水攝取量來決定胰島素需求（例如每15克碳水化合物對應1單位胰島素）。研究顯示其能在2年內降低HbA1c，但仍遠不及健康個體的血糖值。
+密集胰島素治療：病人頻繁測量血糖並每日注射至少3次胰島素，但雖可顯著降低HbA1c，平均血糖值仍遠高於正常範圍。
+胰島素泵浦：它能持續輸注基礎與餐時胰島素，減輕患者每日多次注射的負擔；然而並無研究證實其可使血糖完全正常化，主要優勢只在於便利性。
+連續血糖監測：可全天候追蹤血糖變化，即時反映高低血糖的狀況；雖然其無直接控制血糖的功能，但可讓病人有更多的血糖數據來評估生活型態對血糖的影響，為一極有用的治療工具。
+人工胰臟：它結合連續血糖監測與胰島素泵浦，可用最少的人為操作來調控血糖值。系統通常設有防護機制（如避免血糖低於120mg/dL），因此使用上雖相當安全便利，但仍無法達到健康範圍的正常值，必須自己手動調整此閾值才較有可能達到血糖的正常化。
+胰島細胞與胰臟移植：其目的在重建有分泌功能的β細胞。研究顯示短期內（移植後3個月）可正常化血糖，但長期效果有限、2年後僅36%的患者存有分泌能力，故目前尚非可靠之長期療法。
+BCG疫苗：透過改變免疫細胞的代謝途徑，將氧化代謝轉向成有氧糖解（提高葡萄糖利用率）；在小型試驗中可將HbA1c下降達8年之久，但試驗設計未周全考量多項因素，目前僅能視為可降低HbA1c的潛在治療選項。
+幹細胞療法：被寄予希望能恢復β細胞功能並克服自體免疫問題的療法，但實施後並無法維持長久的療效，因此目前仍處於早期發展的階段。
+
+治療成果：根據過去十年的長期數據，第一型糖尿病的血糖控制為逐年惡化。
+短期內不太可能出現根本性的「治癒」方法，患者仍必須持續使用現有的血糖管理方法。
+目前的治療選項都尚未證實能將血糖值穩定維持在正常範圍内。
+
+相關文獻：
+Alejandro, R., Barton, F. B., Hering, B. J., Wease, S., & Collaborative Islet Transplant Registry, I. (2008). 2008 Update from the Collaborative Islet Transplant Registry. Transplantation, 86(12), 1783-1788. doi:10.1097/TP.0b013e3181913f6a
+Almehthel M, P. B., Thompson DM. (2015). Progress of Islet Transplantation over the Last 15 Years. US Endocrinology, 11(2), 70-74.
+American Diabetes, A. (2010). Diagnosis and classification of diabetes mellitus. Diabetes Care, 33 Suppl 1, S62-69. doi:10.2337/dc10-S062
+Atkinson, M. A., Eisenbarth, G. S., & Michels, A. W. (2014). Type 1 diabetes. Lancet, 383(9911), 69-82. doi:10.1016/S0140-6736(13)60591-7
+Bluestone, J. A., Herold, K., & Eisenbarth, G. (2010). Genetics, pathogenesis and clinical interventions in type 1 diabetes. Nature, 464(7293), 1293-1300.
+Bonfig, W., Kapellen, T., Dost, A., Fritsch, M., Rohrer, T., Wolf, J., . . . the German Bundesministerium fur Bildung und Forschung Competence Net for Diabetes, M. (2012). Growth in children and adolescents with type 1 diabetes. J Pediatr, 160(6), 900-903 e902. doi:10.1016/j.jpeds.2011.12.007
+Carstensen, B., Read, S. H., Friis, S., Sund, R., Keskimaki, I., Svensson, A. M., . . . Cancer Research, C. (2016). Cancer incidence in persons with type 1 diabetes: a five-country study of 9,000 cancers in type 1 diabetic individuals. Diabetologia, 59(5), 980-988. doi:10.1007/s00125-016-3884-9
+Ceriello, A. (2005). Postprandial hyperglycemia and diabetes complications: is it time to treat? Diabetes, 54(1), 1-7.
+Chaytor, N. S. (2016). Cognition in Adults and Older Adults With Type 1 Diabetes: Chicken or Egg? Diabetes Spectr, 29(4), 219-224. doi:10.2337/ds16-0050
+Chaytor, N. S., Barbosa-Leiker, C., Ryan, C. M., Germine, L. T., Hirsch, I. B., & Weinstock, R. S. (2018). Clinically significant cognitive impairment in older adults with type 1 diabetes. J Diabetes Complications. doi:10.1016/j.jdiacomp.2018.04.003
+Chhabra, P., & Brayman, K. L. (2013). Stem cell therapy to cure type 1 diabetes: from hype to hope. Stem Cells Transl Med, 2(5), 328-336. doi:10.5966/sctm.2012-0116
+Chiang, J. L., Kirkman, M. S., Laffel, L. M., Peters, A. L., & Type 1 Diabetes Sourcebook, A. (2014). Type 1 diabetes through the life span: a position statement of the American Diabetes Association. Diabetes Care, 37(7), 2034-2054. doi:10.2337/dc14-1140
+Constance A, H. C., Hayes C, Pereira R, Ross T, Swift C. (2011). My Carbohydrate Guide. In. Retrieved from http://www.lillydiabetes.com/_assets/pdf/ld90766_carbguide.pdf
+Conway, B. N., Lopes-Virella, M. F., & Blot, W. J. (2018). Late adulthood mortality among African-American and white American people with Type 1 diabetes according to age at diabetes diagnosis. Diabet Med, 35(6), 729-736. doi:10.1111/dme.13617
+Couri, C. E., & Voltarelli, J. C. (2009). Stem cell therapy for type 1 diabetes mellitus: a review of recent clinical trials. Diabetol Metab Syndr, 1(1), 19. doi:10.1186/1758-5996-1-19
+Daneman, D. (2005). Early diabetes-related complications in adolescents: risk factors and screening. Horm Res, 63(2), 75-85. doi:10.1159/000083692
+DexCom, I. (2012). United States Patent No.
+Diabetes, C., Complications Trial /Epidemiology of Diabetes, I., & Complications Study Research, G. (2016). Mortality in Type 1 Diabetes in the DCCT/EDIC Versus the General Population. Diabetes Care, 39(8), 1378-1383. doi:10.2337/dc15-2399
+Diabetes, C., Complications Trial Research, G., Nathan, D. M., Genuth, S., Lachin, J., Cleary, P., . . . Siebert, C. (1993). The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N Engl J Med, 329(14), 977-986. doi:10.1056/NEJM199309303291401
+Diabetes, C., Complications Trial/Epidemiology of Diabetes, I., Complications Research, G., Nathan, D. M., Zinman, B., Cleary, P. A., . . . Orchard, T. J. (2009). Modern-day clinical course of type 1 diabetes mellitus after 30 years’ duration: the diabetes control and complications trial/epidemiology of diabetes interventions and complications and Pittsburgh epidemiology of diabetes complications experience (1983-2005). Arch Intern Med, 169(14), 1307-1316. doi:10.1001/archinternmed.2009.193
+Diabetes Canada Clinical Practice Guidelines Expert, C., Senior, P. A., AlMehthel, M., Miller, A., & Paty, B. W. (2018). Diabetes and Transplantation. Can J Diabetes, 42 Suppl 1, S145-S149. doi:10.1016/j.jcjd.2017.10.017
+Everly, M. J. (2009). Pancreas transplantation in the United States: an analysis of the UNOS registry. Clin Transpl, 75-81.
+Exchange, T. D. T1D Discover. Retrieved from https://t1dexchange.org/pages/resources/our-data/t1d-discover/
+Exchange, T. D. T1D Discovery Tool. Retrieved from https://t1dexchange.org/pages/resources/our-data/
+Fong, D. S., Aiello, L., Gardner, T. W., King, G. L., Blankenship, G., Cavallerano, J. D., . . . American Diabetes, A. (2004). Retinopathy in diabetes. Diabetes Care, 27 Suppl 1, S84-87.
+Forbes, J. M., & Cooper, M. E. (2013). Mechanisms of diabetic complications. Physiol Rev, 93(1), 137-188. doi:10.1152/physrev.00045.2011
+Foster, N. C., Beck, R. W., Miller, K. M., Clements, M. A., Rickels, M. R., DiMeglio, L. A., . . . Garg, S. K. (2019). State of Type 1 Diabetes Management and Outcomes from the T1D Exchange in 2016-2018. Diabetes Technol Ther, 21(2), 66-72. doi:10.1089/dia.2018.0384
+Fox, L. A., Hershey, T., Mauras, N., Arbelaez, A. M., Tamborlane, W. V., Buckingham, B., . . . Diabetes Research in Children, N. (2018). Persistence of abnormalities in white matter in children with type 1 diabetes. Diabetologia, 61(7), 1538-1547. doi:10.1007/s00125-018-4610-6
+Frohlich-Reiterer, E. E., Kaspers, S., Hofer, S., Schober, E., Kordonouri, O., Pozza, S. B., . . . Diabetes Patienten Verlaufsdokumentationssystem-Wiss Study, G. (2011). Anthropometry, metabolic control, and follow-up in children and adolescents with type 1 diabetes mellitus and biopsy-proven celiac disease. J Pediatr, 158(4), 589-593 e582. doi:10.1016/j.jpeds.2010.09.050
+Garg, S. K., Weinzimer, S. A., Tamborlane, W. V., Buckingham, B. A., Bode, B. W., Bailey, T. S., . . . Kaufman, F. R. (2017). Glucose Outcomes with the In-Home Use of a Hybrid Closed-Loop Insulin Delivery System in Adolescents and Adults with Type 1 Diabetes. Diabetes Technol Ther, 19(3), 155-163. doi:10.1089/dia.2016.0421
+Gebel, E. (2012). The start of something good: the discovery of HbA(1c) and the American Diabetes Association Samuel Rahbar Outstanding Discovery Award. Diabetes Care, 35(12), 2429-2431. doi:10.2337/dc12-1763
+Goksen, D., Atik Altinok, Y., Ozen, S., Demir, G., & Darcan, S. (2014). Effects of carbohydrate counting method on metabolic control in children with type 1 diabetes mellitus. J Clin Res Pediatr Endocrinol, 6(2), 74-78. doi:10.4274/Jcrpe.119110.4274/Jcrpe.1190
+Group, U. P. D. S. U. (1998). Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). UK Prospective Diabetes Study (UKPDS) Group. Lancet, 352(9131), 837-853.
+Gruessner, R. W., Sutherland, D. E., & Gruessner, A. C. (2004). Mortality assessment for pancreas transplants. Am J Transplant, 4(12), 2018-2026. doi:10.1111/j.1600-6143.2004.00667.x
+Hannon, T. S., & Rogol, A. D. (2012). Diabetes mellitus and growth in children and adolescents. J Pediatr, 160(6), 893-894. doi:10.1016/j.jpeds.2012.01.037
+He, J., Ryder, A. G., Li, S., Liu, W., & Zhu, X. (2018). Glycemic extremes are related to cognitive dysfunction in children with type 1 diabetes: A meta-analysis. J Diabetes Investig. doi:10.1111/jdi.12840
+Hering, B. J., Clarke, W. R., Bridges, N. D., Eggerman, T. L., Alejandro, R., Bellin, M. D., . . . Clinical Islet Transplantation, C. (2016). Phase 3 Trial of Transplantation of Human Islets in Type 1 Diabetes Complicated by Severe Hypoglycemia. Diabetes Care, 39(7), 1230-1240. doi:10.2337/dc15-1988
+Hietala, K., Harjutsalo, V., Forsblom, C., Summanen, P., Groop, P. H., & FinnDiane Study, G. (2010). Age at onset and the risk of proliferative retinopathy in type 1 diabetes. Diabetes Care, 33(6), 1315-1319. doi:10.2337/dc09-2278
+Holmquist, W. R., & Schroeder, W. A. (1966). A new N-terminal blocking group involving a Schiff base in hemoglobin AIc. Biochemistry, 5(8), 2489-2503.
+Hünefeld, F. L. (1840). Die Chemismus in der thierischen Organization. Leipzig Brockhaus.
+Hypoglycemia in the Diabetes Control and Complications Trial. The Diabetes Control and Complications Trial Research Group. (1997). Diabetes, 46(2), 271-286.
+International Expert, C. (2009). International Expert Committee report on the role of the A1C assay in the diagnosis of diabetes. Diabetes Care, 32(7), 1327-1334. doi:10.2337/dc09-9033
+Karges, B., Schwandt, A., Heidtmann, B., Kordonouri, O., Binder, E., Schierloh, U., . . . Holl, R. W. (2017). Association of Insulin Pump Therapy vs Insulin Injection Therapy With Severe Hypoglycemia, Ketoacidosis, and Glycemic Control Among Children, Adolescents, and Young Adults With Type 1 Diabetes. JAMA, 318(14), 1358-1366. doi:10.1001/jama.2017.13994
+Kennedy, R. L., Henry, J., Chapman, A. J., Nayar, R., Grant, P., & Morris, A. D. (2002). Accidents in patients with insulin-treated diabetes: increased risk of low-impact falls but not motor vehicle crashes–a prospective register-based study. J Trauma, 52(4), 660-666.
+Khadilkar, V. V., Parthasarathy, L. S., Mallade, B. B., Khadilkar, A. V., Chiplonkar, S. A., & Borade, A. B. (2013). Growth status of children and adolescents with type 1 diabetes mellitus. Indian J Endocrinol Metab, 17(6), 1057-1060. doi:10.4103/2230-8210.122623
+Kilpatrick, E. S., Rigby, A. S., & Atkin, S. L. (2008a). A1C variability and the risk of microvascular complications in type 1 diabetes: data from the Diabetes Control and Complications Trial. Diabetes Care, 31(11), 2198-2202. doi:10.2337/dc08-0864
+Kilpatrick, E. S., Rigby, A. S., & Atkin, S. L. (2008b). Mean blood glucose compared with HbA1c in the prediction of cardiovascular disease in patients with type 1 diabetes. Diabetologia, 51(2), 365-371. doi:10.1007/s00125-007-0883-x
+Klein, R., Klein, B. E., Moss, S. E., Davis, M. D., & DeMets, D. L. (1984). The Wisconsin epidemiologic study of diabetic retinopathy. II. Prevalence and risk of diabetic retinopathy when age at diagnosis is less than 30 years. Arch Ophthalmol, 102(4), 520-526.
+Klein, R., Knudtson, M. D., Lee, K. E., Gangnon, R., & Klein, B. E. (2008). The Wisconsin Epidemiologic Study of Diabetic Retinopathy: XXII the twenty-five-year progression of retinopathy in persons with type 1 diabetes. Ophthalmology, 115(11), 1859-1868. doi:10.1016/j.ophtha.2008.08.023
+Koenig, R. J., & Cerami, A. (1975). Synthesis of hemoglobin AIc in normal and diabetic mice: potential model of basement membrane thickening. Proc Natl Acad Sci U S A, 72(9), 3687-3691.
+Koenig, R. J., Peterson, C. M., Jones, R. L., Saudek, C., Lehrman, M., & Cerami, A. (1976). Correlation of glucose regulation and hemoglobin AIc in diabetes mellitus. N Engl J Med, 295(8), 417-420. doi:10.1056/NEJM197608192950804
+Kuenen, J. C., Borg, R., Kuik, D. J., Zheng, H., Schoenfeld, D., Diamant, M., . . . Group, A. S. (2011). Does glucose variability influence the relationship between mean plasma glucose and HbA1c levels in type 1 and type 2 diabetic patients? Diabetes Care, 34(8), 1843-1847. doi:10.2337/dc10-2217
+Kuhtreiber, W. M., Tran, L., Kim, T., Dybala, M., Nguyen, B., Plager, S., . . . Faustman, D. L. (2018). Long-term reduction in hyperglycemia in advanced type 1 diabetes: the value of induced aerobic glycolysis with BCG vaccinations. NPJ Vaccines, 3, 23. doi:10.1038/s41541-018-0062-8
+Lachin, J. M., Genuth, S., Nathan, D. M., Zinman, B., Rutledge, B. N., & Group, D. E. R. (2008). Effect of glycemic exposure on the risk of microvascular complications in the diabetes control and complications trial–revisited. Diabetes, 57(4), 995-1001. doi:10.2337/db07-1618
+Laffel, L. (2016). Improved Accuracy of Continuous Glucose Monitoring Systems in Pediatric Patients with Diabetes Mellitus: Results from Two Studies. Diabetes Technol Ther, 18 Suppl 2, S223-233. doi:10.1089/dia.2015.0380
+Langendam, M., Luijf, Y. M., Hooft, L., Devries, J. H., Mudde, A. H., & Scholten, R. J. (2012). Continuous glucose monitoring systems for type 1 diabetes mellitus. Cochrane Database Syst Rev, 1, CD008101. doi:10.1002/14651858.CD008101.pub2
+Lauria, M. W., Figueiro, J. M., Machado, L. J., Sanches, M. D., Nascimento, G. F., Lana, A. M., & Ribeiro-Oliveira, A., Jr. (2010). Metabolic long-term follow-up of functioning simultaneous pancreas-kidney transplantation versus pancreas transplantation alone: insights and limitations. Transplantation, 89(1), 83-87. doi:10.1097/TP.0b013e3181bd0f83
+Lind, M., Svensson, A. M., Kosiborod, M., Gudbjornsdottir, S., Pivodic, A., Wedel, H., . . . Rosengren, A. (2014). Glycemic control and excess mortality in type 1 diabetes. N Engl J Med, 371(21), 1972-1982. doi:10.1056/NEJMoa1408214
+Livingstone, S. J., Levin, D., Looker, H. C., Lindsay, R. S., Wild, S. H., Joss, N., . . . Scottish Renal, R. (2015). Estimated life expectancy in a Scottish cohort with type 1 diabetes, 2008-2010. JAMA, 313(1), 37-44. doi:10.1001/jama.2014.16425
+Livingstone, S. J., Looker, H. C., Hothersall, E. J., Wild, S. H., Lindsay, R. S., Chalmers, J., . . . Colhoun, H. M. (2012). Risk of cardiovascular disease and total mortality in adults with type 1 diabetes: Scottish registry linkage study. PLoS Med, 9(10), e1001321. doi:10.1371/journal.pmed.1001321
+Maahs, D. M., West, N. A., Lawrence, J. M., & Mayer-Davis, E. J. (2010). Epidemiology of type 1 diabetes. Endocrinol Metab Clin North Am, 39(3), 481-497. doi:10.1016/j.ecl.2010.05.011
+Mazaika, P. K., Weinzimer, S. A., Mauras, N., Buckingham, B., White, N. H., Tsalikian, E., . . . Diabetes Research in Children, N. (2016). Variations in Brain Volume and Growth in Young Children With Type 1 Diabetes. Diabetes, 65(2), 476-485. doi:10.2337/db15-1242
+McKnight, J. A., Wild, S. H., Lamb, M. J., Cooper, M. N., Jones, T. W., Davis, E. A., . . . Miller, K. M. (2015). Glycaemic control of Type 1 diabetes in clinical practice early in the 21st century: an international comparison. Diabet Med, 32(8), 1036-1050. doi:10.1111/dme.12676
+Messer, L. H., Forlenza, G. P., Sherr, J. L., Wadwa, R. P., Buckingham, B. A., Weinzimer, S. A., . . . Slover, R. H. (2018). Optimizing Hybrid Closed-Loop Therapy in Adolescents and Emerging Adults Using the MiniMed 670G System. Diabetes Care, 41(4), 789-796. doi:10.2337/dc17-1682
+Mobley, C. B., Mumford, P. W., Kephart, W. C., Haun, C. T., Holland, A. M., Beck, D. T., . . . Roberts, M. D. (2017). Aging in Rats Differentially Affects Markers of Transcriptional and Translational Capacity in Soleus and Plantaris Muscle. Front Physiol, 8, 518. doi:10.3389/fphys.2017.00518
+Murphy SL, X. J., Kochanek KD, Curtin SC, Arias E. (2017). Deaths: Final data for 2015. National Vital Statistics Reports. Retrieved from Hyattsville, MD:
+Nathan, D. M., Cleary, P. A., Backlund, J. Y., Genuth, S. M., Lachin, J. M., Orchard, T. J., . . . Complications Study Research, G. (2005). Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes. N Engl J Med, 353(25), 2643-2653. doi:10.1056/NEJMoa052187
+Nathan, D. M., & Group, D. E. R. (2014). The diabetes control and complications trial/epidemiology of diabetes interventions and complications study at 30 years: overview. Diabetes Care, 37(1), 9-16. doi:10.2337/dc13-2112
+NIDDK. (2008). DCCT and EDIC: The Diabetes Control and Complications Trial and Follow-up Study. Retrieved from https://www.niddk.nih.gov/-/media/Files/Research-Areas/DCCT-EDIC_508.pdf?la=en
+Nunley, K. A., Rosano, C., Ryan, C. M., Jennings, J. R., Aizenstein, H. J., Zgibor, J. C., . . . Saxton, J. A. (2015). Clinically Relevant Cognitive Impairment in Middle-Aged Adults With Childhood-Onset Type 1 Diabetes. Diabetes Care, 38(9), 1768-1776. doi:10.2337/dc15-0041
+Parthasarathy, L., Khadilkar, V., Chiplonkar, S., & Khadilkar, A. (2016). Longitudinal Growth in Children and Adolescents with Type 1 Diabetes. Indian Pediatr, 53(11), 990-992.
+Perutz, M. F. (1960). Structure of haemoglobin. Paper presented at the Brookhaven symposia in biology.
+Perutz, M. F., Rossmann, M. G., Cullis, A. F., Muirhead, H., Will, G., & North, A. C. (1960). Structure of haemoglobin: a three-dimensional Fourier synthesis at 5.5-A. resolution, obtained by X-ray analysis. Nature, 185(4711), 416-422.
+Pinhas-Hamiel, O., Hamiel, U., Boyko, V., Graph-Barel, C., Reichman, B., & Lerner-Geva, L. (2014). Trajectories of HbA1c levels in children and youth with type 1 diabetes. PLoS One, 9(10), e109109. doi:10.1371/journal.pone.0109109
+Qi, M., Kinzer, K., Danielson, K. K., Martellotto, J., Barbaro, B., Wang, Y., . . . Oberholzer, J. (2014). Five-year follow-up of patients with type 1 diabetes transplanted with allogeneic islets: the UIC experience. Acta Diabetol, 51(5), 833-843. doi:10.1007/s00592-014-0627-6
+Rahbar, S. (1968). An abnormal hemoglobin in red cells of diabetics. Clin Chim Acta, 22(2), 296-298.
+Rahbar, S., Blumenfeld, O., & Ranney, H. M. (1969). Studies of an unusual hemoglobin in patients with diabetes mellitus. Biochem Biophys Res Commun, 36(5), 838-843.
+Rawshani, A. S., N.; Franzén, S.; Rawshani, A.; Hattersley, A. T.; Svensson, A.; Eliasson, B.; Gudbjörnsdottir, S. (2018). Excess mortality and cardiovascular disease in young adults with type 1 diabetes in relation to age at onset: a nationwide, register-based cohort. The Lancet, 392, 477-486.
+Rohlfing, C. L., Wiedmeyer, H. M., Little, R. R., England, J. D., Tennill, A., & Goldstein, D. E. (2002). Defining the relationship between plasma glucose and HbA(1c): analysis of glucose profiles and HbA(1c) in the Diabetes Control and Complications Trial. Diabetes Care, 25(2), 275-278.
+Rombopoulos, G., Hatzikou, M., Latsou, D., & Yfantopoulos, J. (2013). The prevalence of hypoglycemia and its impact on the quality of life (QoL) of type 2 diabetes mellitus patients (The HYPO Study). Hormones (Athens), 12(4), 550-558.
+Ryan, E. A., Paty, B. W., Senior, P. A., Bigam, D., Alfadhli, E., Kneteman, N. M., . . . Shapiro, A. M. (2005). Five-year follow-up after clinical islet transplantation. Diabetes, 54(7), 2060-2069.
+S.L., T. (2011). Abnormalities of the structure and synthesis of hemoglobin. In C. Livingston (Ed.), Blood and Bone Marrow Pathology (pp. 131-155).
+Sarkar, S., & Balhara, Y. P. (2014). Diabetes mellitus and suicide. Indian J Endocrinol Metab, 18(4), 468-474. doi:10.4103/2230-8210.137487
+Shapiro, A. M., Lakey, J. R., Ryan, E. A., Korbutt, G. S., Toth, E., Warnock, G. L., . . . Rajotte, R. V. (2000). Islet transplantation in seven patients with type 1 diabetes mellitus using a glucocorticoid-free immunosuppressive regimen. N Engl J Med, 343(4), 230-238. doi:10.1056/NEJM200007273430401
+Shapiro, A. M., Ricordi, C., Hering, B. J., Auchincloss, H., Lindblad, R., Robertson, R. P., . . . Lakey, J. R. (2006). International trial of the Edmonton protocol for islet transplantation. N Engl J Med, 355(13), 1318-1330. doi:10.1056/NEJMoa061267
+Sherr, J. L., Boyle, C. T., Miller, K. M., Beck, R. W., Tamborlane, W. V., & Network, T. D. E. C. (2016). No Summer Vacation From Diabetes: Glycemic Control in Pediatric Participants in the T1D Exchange Registry Based on Time of Year. Diabetes Care, 39(12), e214-e215. doi:10.2337/dc16-1522
+Shivaswamy, V., Boerner, B., & Larsen, J. (2016). Post-Transplant Diabetes Mellitus: Causes, Treatment, and Impact on Outcomes. Endocr Rev, 37(1), 37-61. doi:10.1210/er.2015-1084
+Simonsen, J. R., Harjutsalo, V., Jarvinen, A., Kirveskari, J., Forsblom, C., Groop, P. H., . . . FinnDiane Study, G. (2015). Bacterial infections in patients with type 1 diabetes: a 14-year follow-up study. BMJ Open Diabetes Res Care, 3(1), e000067. doi:10.1136/bmjdrc-2014-000067
+Soedamah-Muthu, S. S., Fuller, J. H., Mulnier, H. E., Raleigh, V. S., Lawrenson, R. A., & Colhoun, H. M. (2006). High risk of cardiovascular disease in patients with type 1 diabetes in the U.K.: a cohort study using the general practice research database. Diabetes Care, 29(4), 798-804.
+Songer, T. J., & Dorsey, R. R. (2006). High risk characteristics for motor vehicle crashes in persons with diabetes by age. Annu Proc Assoc Adv Automot Med, 50, 335-351.
+Spiegel G, P. M. (2015). A Parent/Caregiver Guide: Carbohydrate Counting for Children with Diabetes. In. Retrieved from http://lillydiabetes.com/_assets/pdf/hi86638_carbohydrate_counting_for_children.pdf
+Staff, M. C. (2018a). Hyperglycemia in Diabetes. Retrieved from https://www.mayoclinic.org/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631
+Staff, M. C. (2018b). Hypoglycemia. Retrieved from https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685
+Stahl, C. H., Lind, M., Svensson, A. M., Gudbjornsdottir, S., Martensson, A., & Rosengren, A. (2017). Glycaemic control and excess risk of ischaemic and haemorrhagic stroke in patients with type 1 diabetes: a cohort study of 33 453 patients. J Intern Med, 281(3), 261-272. doi:10.1111/joim.12572
+Team, A. (2018). Has Dr. Denise Faustman Found a Cure for Type 1 Diabetes? Retrieved from https://asweetlife.org/has-dr-denise-faustman-found-a-cure-for-type-1-diabetes/
+Thom, C. S., Dickson, C. F., Gell, D. A., & Weiss, M. J. (2013). Hemoglobin variants: biochemical properties and clinical correlates. Cold Spring Harb Perspect Med, 3(3), a011858. doi:10.1101/cshperspect.a011858
+Thompson, D. M., Meloche, M., Ao, Z., Paty, B., Keown, P., Shapiro, R. J., . . . Warnock, G. L. (2011). Reduced progression of diabetic microvascular complications with islet cell transplantation compared with intensive medical therapy. Transplantation, 91(3), 373-378. doi:10.1097/TP.0b013e31820437f3
+Turner, R. C. (1998). The U.K. Prospective Diabetes Study. A review. Diabetes Care, 21 Suppl 3, C35-38.
+Vanstone, M., Rewegan, A., Brundisini, F., Dejean, D., & Giacomini, M. (2015). Patient Perspectives on Quality of Life With Uncontrolled Type 1 Diabetes Mellitus: A Systematic Review and Qualitative Meta-synthesis. Ont Health Technol Assess Ser, 15(17), 1-29.
+White, N. H., Sun, W., Cleary, P. A., Danis, R. P., Davis, M. D., Hainsworth, D. P., . . . Nathan, D. M. (2008). Prolonged effect of intensive therapy on the risk of retinopathy complications in patients with type 1 diabetes mellitus: 10 years after the Diabetes Control and Complications Trial. Arch Ophthalmol, 126(12), 1707-1715. doi:10.1001/archopht.126.12.1707
+Whitmer RA, B. G., Quesenberry CP Jr, Liu JY, Karter AJ, Beeri M. (2015). Type 1 diabetes and risk of dementia in late life: The kaiser diabetes & cognitive aging study. Paper presented at the Alzheimers and Dementia.
+Yfantopoulos, J., Hatzikou, M., Rombopoulos, G., Panitti, E., & Latsou, D. (2014). The Prevalence of Hypoglycemia and Its Impact on The Quality of Life of Type 2 Diabetes Mellitus Patients in Greece (The Hypo Study). Value Health, 17(7), A356. doi:10.1016/j.jval.2014.08.759
