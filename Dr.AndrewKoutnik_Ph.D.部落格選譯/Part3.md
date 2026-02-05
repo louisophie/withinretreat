@@ -438,7 +438,7 @@ Dr. Koutnik的這三篇部落格文章
 
 ![](./Part3/042.png)
 
-***《第一型糖尿病的生酮飲食》* 作者為Ellen Davis與Keith Runyan醫師** ，内容聚焦在運用生酮飲食來有效治療與管理疾病；Keith Runyan自己同時為第一型糖尿病患者，其個人部落格為<https://ketogenicdiabeticathlete.wordpress.com/author/krunyanmd/>。
+《***The Ketogenic Diet for Type-1 Diabetes***》（***《第一型糖尿病的生酮飲食》*） 作者為Ellen Davis與Keith Runyan醫師** ，内容聚焦在運用生酮飲食來有效治療與管理疾病；Keith Runyan自己同時為第一型糖尿病患者，其個人部落格為<https://ketogenicdiabeticathlete.wordpress.com/author/krunyanmd/>。
 
 ![](./Part3/043.png)
 
