@@ -1,4 +1,4 @@
-Article-list（文章列表；〈https://x.com/louisophie_/articles〉）：
+Article-list（文章列表）：
 
 * 2026/08/07：[《反思糖尿病：飲食、胰島素與疾病治療的科學論證》，Gary Taubes（蓋瑞·陶布斯） 00-前言](https://louisophie.github.io/withinretreat/Rething_Diabetes/00.html)
 * 2026/06/05：活著的定義（三）
@@ -115,9 +115,9 @@ Article-list（文章列表；〈https://x.com/louisophie_/articles〉）：
 * 2023/07/29：My 22Nov05 post from the FB group, TYPEONEGRIT
 * 2023/07/29：《入眠的孩子》、糖尿病襲捲紐約 by N.R. Klienfield，林詠盛譯，2006/01/16
 
-林詠盛(louis)：louisophie@gmail.com
-#糖尿病治療 #飲食科學 #糖尿病 #中文翻譯 #diabetes #dietary #translation #RichardKBernstein
-https://x.com/louisophie_/articles
-https://www.blogger.com/profile/17529498359072421715（內分泌相關文章及選譯、Short Essays on Anything Sensible）
-https://github.com/louisophie/
-https://louisophie.wordpress.com
+\- 林詠盛(louis)：louisophie@gmail.com  
+\- https://x.com/louisophie_/articles  
+\- https://www.blogger.com/profile/17529498359072421715（內分泌相關文章及選譯、Short Essays on Anything Sensible）  
+\- https://github.com/louisophie/  
+\- https://louisophie.wordpress.com  
+\- #糖尿病治療, #飲食科學, #糖尿病, #中文翻譯, #diabetes, #dietary, #translation, #RichardKBernstein, #GaryTaubes
