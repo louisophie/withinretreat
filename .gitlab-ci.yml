@@ -1,14 +1,24 @@
 default:
   image: ruby:3.2
 
-pages:
-  stage: deploy
+create-pages:
   script:
-    - mkdir .public
-    - cp -r * .public
-    - mv .public public
-  artifacts:
-    paths:
-      - public
-  rules:
-    - if: $CI_COMMIT_BRANCH == "main"
+    - gem install bundler
+    - bundle install
+    - bundle exec jekyll build -d public
+  pages: true  # specifies that this is a Pages job and publishes the default public directory
+
+#default:
+  #image: ruby:3.2
+
+#pages:
+  #stage: deploy
+  #script:
+    #- mkdir .public
+    #- cp -r * .public
+    #- mv .public public
+  #artifacts:
+    #paths:
+      #- public
+  #rules:
+    #- if: $CI_COMMIT_BRANCH == "main"
