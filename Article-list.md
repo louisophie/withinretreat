@@ -1,6 +1,6 @@
 ### Article-list（文章列表）：
 <!-- louisophie.github.io/withinretreat/Article-list -->
-<!-- https://withinretreat.louisophie-gitlab.workers.dev/ -->
+<!-- https://withinretreat.louisophie-gitlab.workers.dev -->
 
 * 2026/08/07：[《反思糖尿病：飲食、胰島素與疾病治療的科學論證》，Gary Taubes（蓋瑞·陶布斯） 00-前言](./Rething_Diabetes/00.html)
 * 2026/06/05：活著的定義（三）
