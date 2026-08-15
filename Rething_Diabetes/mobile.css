@@ -1,0 +1,15 @@
+/* Make Zettlr HTML exports readable on phones */
+@media (max-width: 600px) {
+  body {
+    max-width: 100%;
+    font-size: clamp(16px, 4.5vw, 20px);
+    line-height: 1.7;
+    padding: 16px;
+  }
+  p {
+    margin: 1em 0;
+  }
+  h1 { font-size: 1.5em; }
+  h2 { font-size: 1.3em; }
+  h3 { font-size: 1.15em; }
+}
