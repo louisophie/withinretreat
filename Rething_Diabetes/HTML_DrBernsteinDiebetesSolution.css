@@ -1,0 +1,41 @@
+body {
+  max-width: 40em;          /* comfortable reading width */
+  margin: 0 auto;           /* center the content */
+  padding: 2.5em 2.5em;       /* top/bottom 2.5em, left/right 2em */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+h4 {
+  margin-bottom: 0;   /* very small space under the title */
+  padding-bottom: 0;
+}
+h4 + p {
+  margin-top: 0;           /* remove the default top margin of the paragraph */
+  padding-top: 0;
+}
+
+section.level5 {
+  margin: 1em 0;                  /* ← the fix: blank-line gap between h5 groups */
+}
+section.level5 h5 {
+  display: inline;                /* keep run-in: title flows into body    */
+  margin: 0;
+  font-size: inherit;
+  font-weight: bold;
+}
+section.level5 h5::after {
+  content: "：";             /* keep the "：" + thin space separator   */
+  /*content: "：\2009";             /* keep the "：" + thin space separator   */
+}
+section.level5 h5 + p {
+  display: inline;                /* keep body on the same line as title   */
+  margin-right: 0;
+}
+
+div.inline-note { font-size: 0.9em; color: #444; margin: 0.3em 0 0.2em 1.5em; }
+div.inline-note p { margin: 0; }
