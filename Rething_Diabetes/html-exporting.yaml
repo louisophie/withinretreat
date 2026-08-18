@@ -1,0 +1,42 @@
+# ZETTLR DEFAULTS FILE
+# ====================
+# Conversion: Markdown --> HTML Document
+# More info: https://pandoc.org/MANUAL.html
+reader: markdown
+writer: html
+self-contained: false
+variables: {}
+metadata-files: []
+include-before-body: []
+include-after-body: []
+include-in-header: []
+bibliography: []
+filters:
+- ./html-exporting_notes-inline.lua
+- type: citeproc
+top-level-division: chapter
+wrap: none
+columns: 78
+dpi: 72
+toc: false
+toc-depth: 2
+number-sections: false
+section-divs: true
+identifier-prefix: ''
+title-prefix: ''
+eol: lf
+strip-comments: true #for <!--  --> be ignored
+indented-code-classes: []
+ascii: false
+default-image-extension: .jpg
+highlight-style: pygments
+html-math-method:
+  method: mathjax
+  url: https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js
+tab-stop: 4
+preserve-tabs: false
+html-q-tags: false
+css:
+- ./html-exporting.css
+fail-if-warnings: false
+embed-resources: false
