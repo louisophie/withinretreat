@@ -4,3 +4,4 @@ tmp*
 test*
 *.md
 !README.md
+processing-files/
