@@ -7,9 +7,16 @@
 　　這裡是一些我在網路上發表過及翻譯的文章，内容基本上都是内分泌、飲食及糖尿病治療相關的議題。我自己是位罹病20年的第1型糖尿病患，並在約4年前35歲時開始自我治療，其依據的方法及文獻多是來自Richard Bernstein, Gary Taubes, Nina Teicholz, Dr. Jason Fung, Dr. Eric Westman, Jimmy Moore及Keith Runyan的東西，而他們的書籍或相關的論文也是我翻譯文章的主要材料；也因為有了這些科學的指導方法，我的病情才因此獲得了極大的改善。這些中文翻譯或文章可能可以提供需要的人一點參考價值外，也是我治療過程及生活記錄的一部份。  
 　　所有的翻譯文章、除了其原材料可在網路上免費取得之外，所有須付費購買的書籍或論文其翻譯都是不完全的（我只會選譯自己覺得有趣的段落或部分篇章），因此有興趣且可以進行英文閱讀的讀者請務必直接參考原文材料，如此亦可對全書或論文的主題有更深入的了解與掌握。(20250129)  
 　　20260117新增散文文章。
-# 
+
+---
+
 林詠盛(Louis), louisophie@gmail.com  
 https://www.blogger.com/profile/17529498359072421715  
 https://x.com/louisophie_/  
 https://github.com/louisophie/withinretreat  
 #糖尿病治療,#飲食科學,#糖尿病,#中文翻譯,#diabetes,#dietary,#translation,#RichardKBernstein  
+
+## Article-list（文章列表）：
+* https://louisophie.codeberg.page/withinretreat/
+* https://withinretreat.louisophie-gitlab.workers.dev/Article-list
+* https://louisophie.github.io/withinretreat/Article-list.html
